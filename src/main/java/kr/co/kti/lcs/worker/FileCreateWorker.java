@@ -18,14 +18,34 @@ import kr.co.kti.lcs.common.Util;
  */
 public class FileCreateWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * Trace File 생성 경로
+	 */
 	private String strTracePath;
+	
+	/**
+	 * 운행정보 파일 생성 경로
+	 */
 	private String strMobileRawPath;
+	
+	/**
+	 * 임시 파일 생성 경로
+	 */
 	private String strFileTemp;
 
+	/**
+	 * Debug 상태 
+	 */
 	private boolean isDebug = true;
 
+	/**
+	 * 파일 생성 Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -119,6 +139,9 @@ public class FileCreateWorker extends AbstractVerticle
 		});
 	}
 
+	/**
+	 * 파일 생성 Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

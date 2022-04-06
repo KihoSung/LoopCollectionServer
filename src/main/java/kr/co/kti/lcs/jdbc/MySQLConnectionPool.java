@@ -27,6 +27,11 @@ public class MySQLConnectionPool
 	Stack<Connection> freePool = new Stack<>();
 	Set<Connection> occupiedPool = new HashSet<>();
 	
+	/**
+	 * Get Connection Count
+	 * 
+	 * @return
+	 */
 	public int getConnCount()
 	{
 		return this.connNum;

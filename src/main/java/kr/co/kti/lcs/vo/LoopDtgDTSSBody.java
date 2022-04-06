@@ -8,37 +8,147 @@ package kr.co.kti.lcs.vo;
  */
 public class LoopDtgDTSSBody extends LoopDtgFrame
 {
+	/**
+	 * 운행시각
+	 */
 	private int Time;
+	
+	/**
+	 * 차속
+	 */
 	private int Speed;
+	
+	/**
+	 * 차속 소숫점 이하
+	 */
 	private int SpeedFix;
+	
+	/**
+	 * RPM
+	 */
 	private int RPM;
+	
+	/**
+	 * 차량 신호 (KeyOn, Brake등)
+	 */
 	private int Signal;
+	
+	/**
+	 * 차량/단말기 상태 (GPS Fault 등)
+	 */
 	private int Status;
+	
+	/**
+	 * 위도
+	 */
 	private long Latitude;
+	
+	/**
+	 * 경도
+	 */
 	private long Longitude;
+	
+	/**
+	 * 방위각
+	 */
 	private int Azimuth;
+	
+	/**
+	 * GPS 상태 (수신불량, 신호약함 등)
+	 */
 	private int GPSStatus;
+	
+	/**
+	 * GPS 속도
+	 */
 	private int GPSSpeed;
+	
+	/**
+	 * 가속도x
+	 */
 	private int AccVx;
+	
+	/**
+	 * 가속도y
+	 */
 	private int AccVy;
+	
+	/**
+	 * 트립카운트 (해당 운행데이터의 트립카운트)
+	 */
 	private int TripCount;
+	
+	/**
+	 * 운전자번호
+	 */
 	private int DriverNo;
+	
+	/**
+	 * RSSI
+	 */
 	private int RSSI;
+	
+	/**
+	 * Isg 상태
+	 */
 	private int IsgStatus;
+	
+	/**
+	 * 주행거리
+	 */
 	private float Distance;
+	
+	/**
+	 * 일주행거리
+	 */
 	private float DayDistance;
+	
+	/**
+	 * 총주행거리
+	 */
 	private float TotDistance;
-	private float FuelConsumption; // 연료소모량
+	
+	/**
+	 * 연료소모량
+	 */
+	private float FuelConsumption;
+	
+	/**
+	 * 일 연료소모량
+	 */
 	private float DayFuelConsumption;
+	
+	/**
+	 * 총 연료소모량
+	 */
 	private float TotFuelConsumption;
+	
+	/**
+	 * 배터리 전압
+	 */
 	private int BatteryVolt;
+	
+	/**
+	 * AEBS
+	 */
 	private int AEBS;
 	private int LDWS1;
 	private int Temp1;
 	private int Temp2;
 
+	/**
+	 * Brake 신호
+	 */
 	private int Break;
+	
+	/**
+	 * 시동 On/Off 신호
+	 */
 	private int KeyOn;
+	
+	/**
+	 * VDS 상태
+	 */
 	private String VDRStatus;
 	
 	private int ErrCount = 0;

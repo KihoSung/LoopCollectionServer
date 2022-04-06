@@ -8,31 +8,66 @@ package kr.co.kti.lcs.common;
  */
 public class Const
 {
+	/**
+	 * 운행기록 Encoding 형식
+	 */
 	public final static String ENCODE_TYPE = "EUC-KR";
 	
+	/**
+	 * 일기준 첫번째 트립 카운트 번호
+	 */
 	public final static int FIRST_TRIP_COUNT = 1;
 	
 	/**
-	 * DATA COMMAND 
+	 * 단말기 정보(회선정보 등) COMMAND
 	 */
 	public final static String COMMAND_INFO = "INFO";
+	
+	/**
+	 * INFO에대한 서버응답 COMMAND
+	 */
 	public final static String COMMAND_DTSC = "DTSC";
+	
+	/**
+	 * 운행기록 정보 COMMAND
+	 */
 	public final static String COMMAND_DTSS = "DTSS";
+	
+	/**
+	 * 이벤트 정보 COMMAND
+	 */
 	public final static String COMMAND_EVSS = "EVSS";
 	
 	/**
-	 * Consumer Address
+	 * 인증 EVENT BUS ID 명
 	 */
 	public final static String EB_AUTH_WORKER = "EB_AUTH_WORKER";
+	
+	/**
+	 * DB MANAGER EVENT BUS ID 명
+	 */
 	public final static String EB_DAO_MANAGER_WORKER = "EB_DAO_MANAGER_WORKER";
+	
+	/**
+	 * 운행정보 처리 EVENT BUS ID 명
+	 */
 	public final static String EB_DRIVING_DATA_PROC_WORKER = "EB_DRIVING_DATA_PROC_WORKER";
+	
+	/**
+	 * 이벤트 정보 처리 EVENT BUS ID 명
+	 */
 	public final static String EB_EVENT_DATA_PROC_WORKER = "EB_EVENT_DATA_PROC_WORKER";
+	
+	/**
+	 * 운행기록 파일 생성 EVENT BUS ID 명
+	 */
 	public final static String EB_FILE_CREATE_WORKER = "EB_FILE_CREATE_WORKER";
+	
+	/**
+	 * TRACE LOG EVENT BUS ID 명
+	 */
 	public final static String EB_TRACE_LOG_WORKER = "EB_TRACE_LOG_WORKER";
 
-	/**
-	 * Define LOOP DTG Frame Protocol Length
-	 */
 	public final static int LEN_LOOP_SPK = 2;
 	public final static int LEN_LOOP_DEVICE_ID = 2;
 	public final static int LEN_LOOP_IDENTITY_NO = 4;
@@ -40,13 +75,9 @@ public class Const
 	public final static int LEN_LOOP_INDEX = 2;
 	public final static int LEN_LOOP_COUNT = 2;
 	public final static int LEN_LOOP_DATA_LENGTH = 4;
-	// 데이터 길이는 LEN_DATA_LENGTH에저 지정한 값만큼 변동 됨
 	public final static int LEN_LOOP_CRC = 2;
 	public final static int LEN_LOOP_EPK = 2;
 
-	/**
-	 * Define LOOP DTG HEADER Packet Length
-	 */
 	public final static int LEN_LOOP_HD_RESERVED1 = 4; // BYNARY
 	public final static int LEN_LOOP_HD_RESERVED2 = 7; // BYNARY
 	public final static int LEN_LOOP_HD_DRIVER_NAME = 10; // ASCII
@@ -71,13 +102,13 @@ public class Const
 	public final static int LEN_LOOP_HD_RESERVED9 = 4; // BINARY
 	public final static int LEN_LOOP_HD_RESERVED10 = 56; // BINARY
 
+	/**
+	 * LOOP INFO COMMAND DATA 전체 길이
+	 */
 	public final static int LEN_LOOP_HD_TOTAL = LEN_LOOP_HD_RESERVED1 + LEN_LOOP_HD_RESERVED2 + LEN_LOOP_HD_DRIVER_NAME + LEN_LOOP_HD_DRIVER_CODE + LEN_LOOP_HD_CAR_TYPE + LEN_LOOP_HD_CAR_REG_NO + LEN_LOOP_HD_CAR_ID_NO + LEN_LOOP_HD_OFFICE_NAME + LEN_LOOP_HD_BIZ_NO + LEN_LOOP_HD_TYPE_APPROVAL_NO
 			+ LEN_LOOP_HD_SERIAL_NO + LEN_LOOP_HD_MODEL_NO + LEN_LOOP_HD_K_FACTOR + LEN_LOOP_HD_RPM_FACTOR + LEN_LOOP_HD_RESERVED3 + LEN_LOOP_HD_FIRMWARE_VER + LEN_LOOP_HD_RESERVED4 + LEN_LOOP_HD_RESERVED5 + LEN_LOOP_HD_RESERVED6 + LEN_LOOP_HD_RESERVED7 + LEN_LOOP_HD_RESERVED8
 			+ LEN_LOOP_HD_RESERVED9 + LEN_LOOP_HD_RESERVED10;
 	
-	/**
-	 * Define LOOP DTG Driving Data Packet Length
-	 */
 	public final static int LEN_LOOP_TIME = 4;
 	public final static int LEN_LOOP_SPEED = 1;
 	public final static int LEN_LOOP_SPEED_FLOAT = 1;
@@ -107,19 +138,20 @@ public class Const
 	public final static int LEN_LOOP_TEMP1 = 2;
 	public final static int LEN_LOOP_TEMP2 = 2;
 
-	// 운행데이터 전체 길이 //
+	/**
+	 * 운행데이터 전체 길이
+	 */
 	public final static int LEN_LOOP_DB_TOTAL = LEN_LOOP_TIME + LEN_LOOP_SPEED + LEN_LOOP_SPEED_FLOAT + LEN_LOOP_RPM + LEN_LOOP_SIGNAL + LEN_LOOP_STATUS + LEN_LOOP_LATITUDE + LEN_LOOP_LONGITUDE + LEN_LOOP_AZIMUTH + LEN_LOOP_GPS_STATUS + LEN_LOOP_GPS_SPEED + LEN_LOOP_ACC_X + LEN_LOOP_ACC_Y
 			+ LEN_LOOP_TRIP_COUNT + LEN_LOOP_DRIVER_NO + LEN_LOOP_RSSI + LEN_LOOP_ISG_STATUS + LEN_LOOP_DISTANCE + LEN_LOOP_DAY_DISTANCE + LEN_LOOP_TOT_DISTANCE + LEN_LOOP_FUEL_CONSUMPTION + LEN_LOOP_DAY_FUEL_CONSUMPTION + LEN_LOOP_TOT_FUEL_CONSUMPTION + LEN_LOOP_BATTERY_VOLT + LEN_LOOP_AEBS
 			+ LEN_LOOP_LDWS1 + LEN_LOOP_TEMP1 + LEN_LOOP_TEMP2;
 	
-	// Trip Count 추출용 시작 주소 //
+	/**
+	 * Trip Count 추출용 시작 주소
+	 */
 	public final static int LEN_LOOP_TRIP_START = LEN_LOOP_TIME + LEN_LOOP_SPEED + LEN_LOOP_SPEED_FLOAT + LEN_LOOP_RPM + LEN_LOOP_SIGNAL + LEN_LOOP_STATUS + LEN_LOOP_LATITUDE + LEN_LOOP_LONGITUDE + LEN_LOOP_AZIMUTH + LEN_LOOP_GPS_STATUS + LEN_LOOP_GPS_SPEED + LEN_LOOP_ACC_X + LEN_LOOP_ACC_Y;
 
 	// ============================================================================================================================ //
 
-	/**
-	 * 자체 플랫폼 define 상수
-	 */
 	// define VDR header item length
 	public final static int LEN_MODEL_NAME = 20; // 전송장치 모델 1
 	public final static int LEN_VEHICLE_IDENTIFICATION_NUNBER = 17; // 차대번호 1

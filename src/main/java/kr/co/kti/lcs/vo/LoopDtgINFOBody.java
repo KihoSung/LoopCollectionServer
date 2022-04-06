@@ -13,26 +13,83 @@ import kr.co.kti.lcs.common.Util;
  */
 public class LoopDtgINFOBody extends LoopDtgFrame
 {
+	/**
+	 * INFO Data Bytes
+	 */
 	private byte[] infoData;
 
 	private byte[] Reserved1;
 	private byte[] Reserved2;
+	
+	/**
+	 * 운전자명
+	 */
 	private String DriverName;
+	
+	/**
+	 * 운전자코드
+	 */
 	private String DriverCode;
 
+	/**
+	 * 차량유형
+	 */
 	private int CarType;
+	
+	/**
+	 * 차량 등록 번호 (13허1234)
+	 */
 	private String CarRegNo;
+	
+	/**
+	 * 차량 등록 번호 Bytes
+	 */
 	private byte[] BCarRegNo;
 
+	/**
+	 * 차대번호
+	 */
 	private String CarIdNo;
+	
+	/**
+	 * 회사명
+	 */
 	private String OfficeName;
+	
+	/**
+	 * 사업자번호
+	 */
 	private String BizNo;
+	
+	/**
+	 * 형식승인번호
+	 */
 	private String TypeApprovalNo;
+	
+	/**
+	 * 시리얼 번호
+	 */
 	private String SerialNo;
+	
+	/**
+	 * 모델 번호
+	 */
 	private String ModelNo;
+	
+	/**
+	 * KFactor
+	 */
 	private int KFactor;
+	
+	/**
+	 * RPMFactor
+	 */
 	private int RPMFactor;
 	private byte[] Reserved3;
+	
+	/**
+	 * Firmware 버전
+	 */
 	private byte[] FirmwareVer;
 	private byte[] Reserved4;
 	private byte[] Reserved5;
@@ -42,9 +99,24 @@ public class LoopDtgINFOBody extends LoopDtgFrame
 	private byte[] Reserved9;
 	private byte[] Reserved10;
 
+	/**
+	 * 트립시퀀스
+	 */
 	private int TripSequence;
+	
+	/**
+	 * 운행데이터 운행 코드 (S,E,D)
+	 */
 	private String DrivingInfoCode;
+	
+	/**
+	 * Packet Count
+	 */
 	private int PacketCount = 0;
+	
+	/**
+	 * 트립 Count
+	 */
 	private int TripCount = 1;
 
 	public int getTripCount()

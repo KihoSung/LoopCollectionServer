@@ -22,31 +22,85 @@ import kr.co.kti.lcs.vo.LoopDtgINFOBody;
  */
 public class LoopDtgDTSSService
 {
+	/**
+	 * Define Logging Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * Define Vertx
+	 */
 	private Vertx vertx;
 
+	/**
+	 * 전체 DTSS 데이터 버퍼
+	 */
 	private Buffer dtssBuffer;
 
+	/**
+	 * 전체 DTSS 데이터 Bytes
+	 */
 	private byte[] bytesDtss;
+	
+	/**
+	 * 운행 데이터 Bytes
+	 */
 	private byte[] bytesDriveData;
 
-	private int intIndex; // DTSS Data 시작 번지
-	private int intCount; // DTSS Data 종료 번지
-	private int intLength; // 데이터 Byte 수
-	private int intDataCount; // DTSS Data Set Count
-	private byte[] bytesCrc; // DTSS Data CRC
-	private byte[] bytesMakeCrc; // DTSS Data Make CRC
+	/**
+	 * DTSS Data 시작번지
+	 */
+	private int intIndex;
+	
+	/**
+	 * DTSS Data 종료 번지
+	 */
+	private int intCount;
+	
+	/**
+	 * 데이터 Byte 수
+	 */
+	private int intLength;
+	
+	/**
+	 * DTSS Data Set Count
+	 */
+	private int intDataCount; // 
+	
+	/**
+	 * DTSS Data CRC
+	 */
+	private byte[] bytesCrc; // 
+	
+	/**
+	 * DTSS Data Make CRC
+	 */
+	private byte[] bytesMakeCrc; // 
 
+	/**
+	 * 운행데이터 시작 번지
+	 */
 	private int intSBuff = Const.LEN_LOOP_SPK + Const.LEN_LOOP_DEVICE_ID + Const.LEN_LOOP_IDENTITY_NO + Const.LEN_LOOP_COMMAND + Const.LEN_LOOP_INDEX + Const.LEN_LOOP_COUNT;
 
+	/**
+	 * 운행데이터 Array<LoopDtgDTSSBody>
+	 */
 	private ArrayList<LoopDtgDTSSBody> alLoopDtgDTSSBody = new ArrayList<LoopDtgDTSSBody>();
+	
+	/**
+	 * 00시00분00초 기준 트립 나누기 기준 두번째 운행데이터 Array<LoopDtgDTSSBody>
+	 */
 	private ArrayList<LoopDtgDTSSBody> alLoopDtgDTSSBodyTwo = new ArrayList<LoopDtgDTSSBody>();
 
+	/**
+	 * DTSS VO
+	 */
 	private LoopDtgINFOBody loopDtgINFOBody;
+	
+	/**
+	 * 00시00분00초 기준 트립 나누기 기준 두번째 DTSS VO
+	 */
 	private LoopDtgINFOBody loopDtgINFOBodyTwo;
-
-	private Buffer buffTrip;
 
 	/**
 	 * 00시00분00초 기준 트립이 나눠지면서 발생하는 두번째 데이터 사이트 반환

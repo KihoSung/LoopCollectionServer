@@ -14,8 +14,14 @@ import kr.co.kti.lcs.common.Const;
  */
 public class TraceLogWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * 트레이스 로그 처리 Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture)
 	{
@@ -29,6 +35,9 @@ public class TraceLogWorker extends AbstractVerticle
 		});
 	}
 
+	/**
+	 * 트레이스 로그 처리 Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> startFuture)
 	{

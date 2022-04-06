@@ -18,13 +18,29 @@ import kr.co.kti.lcs.common.Util;
  */
 public class AuthWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * 서버 IP Bytes
+	 */
 	private byte[] byteServerIp = new byte[4];
 
+	/**
+	 * 단말기 요청 Command ID
+	 */
 	private final String REQ_COMMAND = Const.COMMAND_INFO;
+	
+	/**
+	 * 서버 응답 Command ID
+	 */
 	private final String RES_COMMAND = Const.COMMAND_DTSC;
 
+	/**
+	 * 인증 Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -102,6 +118,9 @@ public class AuthWorker extends AbstractVerticle
 
 	}
 
+	/**
+	 * 인증 Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

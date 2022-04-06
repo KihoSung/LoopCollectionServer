@@ -20,13 +20,29 @@ import kr.co.kti.lcs.service.LoopDtgDTSSService;
  */
 public class DrivingDataProcWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * 서버 IP Bytes
+	 */
 	private byte[] byteServerIp = new byte[4];
 
+	/**
+	 * 단말 요청 Command ID
+	 */
 	private final String REQ_COMMAND = Const.COMMAND_DTSS;
+	
+	/**
+	 * 서버 응답 Command ID
+	 */
 	private final String RES_COMMAND = Const.COMMAND_DTSS;
 
+	/**
+	 * 운행정보 처리 Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -151,6 +167,9 @@ public class DrivingDataProcWorker extends AbstractVerticle
 		});
 	}
 
+	/**
+	 * 운행정보 처리 Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

@@ -24,21 +24,59 @@ import kr.co.kti.lcs.vo.LoopDtgINFOBody;
  */
 public class DAOManagerWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * Define DB INFO 
+	 */
 	private JsonObject DB_INFO;
 
+	/**
+	 * Define DAO Service
+	 */
 	private DAOService daoService;
 
+	/**
+	 * Loacal DB Connection
+	 */
 	private Connection conn;
 
+	/**
+	 * 서버 URL
+	 */
 	private String strUrl;
+	
+	/**
+	 * 서버 사용자 ID
+	 */
 	private String strUser;
+	
+	/**
+	 * 서버 사용자 비번
+	 */
 	private String strPassword;
+	
+	/**
+	 * DB 연결 Driver Class
+	 */
 	private String strDriverClass;
+	
+	/**
+	 * 초기 DB PoolSize
+	 */
 	private int intInitialPoolSize;
+	
+	/**
+	 * 최대 DB PoolSize
+	 */
 	private int intMaxPoolSize;
 
+	/**
+	 * DAOManser Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -182,6 +220,9 @@ public class DAOManagerWorker extends AbstractVerticle
 		return jo;
 	}
 
+	/**
+	 * DAOManager Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

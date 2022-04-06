@@ -12,16 +12,50 @@ import kr.co.kti.lcs.common.Util;
  */
 public class LoopDtgFrame
 {
+	/**
+	 * 패킷 시작
+	 */
 	private int SPK;
+	
+	/**
+	 * 장치 ID
+	 */
 	private int DeviceID;
+	
+	/**
+	 * 회선번호
+	 */
 	private int IdentityNo;
+	
+	/**
+	 * Data Command
+	 */
 	private String Command;		// Little Endian
+	
+	/**
+	 * Data 전송 시작 번지
+	 */
 	private int Index;
+	
+	/**
+	 * Data 전송 종료 번지
+	 */
 	private int Count;
+	
+	/**
+	 * 데이터 Count
+	 */
 	private long Length;
 	// data 들어갈 곳
 
+	/**
+	 * 패킷 CRC
+	 */
 	private int CRC;
+	
+	/**
+	 * 패킷 끝
+	 */
 	private int EPK;
 	
 	public int doParseStart(byte[] frameData) throws UnsupportedEncodingException

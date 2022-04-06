@@ -52,8 +52,14 @@ public class DAOService
 	 */
 	public JsonObject getTripInfo(String strIdentityNo)
 	{
+		/**
+		 * Local Connection
+		 */
 		Connection conn = null;
 		
+		/**
+		 * 데이터 Structure JSON
+		 */
 		JsonObject joReturn = new JsonObject();
 
 		try
@@ -129,8 +135,14 @@ public class DAOService
 	 */
 	public int authIdentityNo(String strIdentityNo)
 	{
+		/**
+		 * Local Connection
+		 */
 		Connection conn = null;
 		
+		/**
+		 * Return Count
+		 */
 		int intReturn = 0;
 
 		log.debug(strIdentityNo);
@@ -184,6 +196,9 @@ public class DAOService
 	 */
 	public void setLoopDtgInfo(String strIdentityNo, LoopDtgINFOBody loopDtgINFOBody)
 	{
+		/**
+		 * Local Connection
+		 */
 		Connection conn = null;
 		
 		// DB에 설정 한다
@@ -263,6 +278,9 @@ public class DAOService
 	 */
 	public void setTripInfo(String strIdentityNo, JsonObject joTripInfo)
 	{
+		/**
+		 * Local Connection
+		 */
 		Connection conn = null;
 		
 		StringBuilder sbSql = new StringBuilder();
@@ -325,6 +343,9 @@ public class DAOService
 	 */
 	public void deleteLoopInfo(String strIdentityNo)
 	{
+		/**
+		 * Local Connection
+		 */
 		Connection conn = null;
 		
 		String strSql = "DELETE FROM LOOP_INFO WHERE DVC_ID = '%s'";

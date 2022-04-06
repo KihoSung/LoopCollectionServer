@@ -14,6 +14,10 @@ public class LoopServerToDtgBody extends LoopDtgFrame
 	 * 0x00 : Not Ready (값:0) 0x01 : Data 전송 요청 (값:1)
 	 */
 	private int Data;
+	
+	/**
+	 * 서버 IP
+	 */
 	private String ServerIp;
 
 	public int getData()

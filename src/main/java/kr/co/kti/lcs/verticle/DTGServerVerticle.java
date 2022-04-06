@@ -23,15 +23,39 @@ import kr.co.kti.lcs.common.Util;
  */
 public class DTGServerVerticle extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * Define Socket
+	 */
 	private NetSocket netSocket;
 
+	/**
+	 * Define 서버 IP
+	 */
 	private String strServerIp;
+	
+	/**
+	 * Define 응답 IP
+	 */
 	private String strResIp;
+	
+	/**
+	 * Define 서버 Port
+	 */
 	private int intServerPort;
+	
+	/**
+	 * Define 서버 최대 Connection 수
+	 */
 	private int intMaxConn;
 
+	/**
+	 * 루프 Socket 서버 Verticle 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -58,6 +82,9 @@ public class DTGServerVerticle extends AbstractVerticle
 		// startFuture.complete();
 	}
 
+	/**
+	 * Define 수신 Buffer
+	 */
 	private Buffer revBuffer = Buffer.buffer();
 
 	/**
@@ -294,6 +321,9 @@ public class DTGServerVerticle extends AbstractVerticle
 		}
 	}
 
+	/**
+	 * 루프 Socket 서버 Verticle 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

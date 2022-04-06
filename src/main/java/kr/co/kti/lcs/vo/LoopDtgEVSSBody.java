@@ -9,14 +9,38 @@ package kr.co.kti.lcs.vo;
 public class LoopDtgEVSSBody extends LoopDtgFrame
 {
 	private long Time;
-	private int Type;		// Beacon : 0x00(0), rFid : 0x01(1) 구분 해당 구분에 따라서 Adress 데이터 처리 변경
-	private byte[] Address; // String 으로 해야 할지 Little Endian //
+	
+	/**
+	 * Beacon : 0x00(0), rFid : 0x01(1) 구분 해당 구분에 따라서 Adress 데이터 처리 변경
+	 */
+	private int Type;
+	
+	/**
+	 * Mac Address
+	 */
+	private byte[] Address;
 	private int RSSI;
 	private int Count;
 	private int IO;
+	
+	/**
+	 * 위도
+	 */
 	private long Latitude;
+	
+	/**
+	 * 경도
+	 */
 	private long Longitude;
+	
+	/**
+	 * 방위각
+	 */
 	private int Azimuth;
+	
+	/**
+	 * 차속
+	 */
 	private int Speed;
 	private byte[] REserved; // String 으로 해야 할지 //
 

@@ -14,8 +14,14 @@ import kr.co.kti.lcs.common.Const;
  */
 public class EventDataProcWorker extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
 
+	/**
+	 * 이벤트 처리 Worker 시작
+	 */
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
 	{
@@ -31,6 +37,9 @@ public class EventDataProcWorker extends AbstractVerticle
 		});
 	}
 
+	/**
+	 * 이벤트 처리 Worker 종료
+	 */
 	@Override
 	public void stop(Future<Void> stopFuture) throws Exception
 	{

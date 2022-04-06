@@ -20,6 +20,9 @@ import io.vertx.core.json.JsonObject;
  */
 public class Util
 {
+	/**
+	 * Locale 상수 (한국)
+	 */
 	public static final Locale currentLocale = new Locale("KOREAN", "KOREA");
 	
 	/**

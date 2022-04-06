@@ -19,9 +19,19 @@ import kr.co.kti.lcs.common.Const;
  */
 public class MainVerticle extends AbstractVerticle
 {
+	/**
+	 * Define Log Value
+	 */
 	private org.slf4j.Logger log = null;
+	
+	/**
+	 * Define Worker Array
+	 */
 	private JsonArray verticle_array = null;
 
+	/**
+	 * 메인 Verticle 시작
+	 */
 	@SuppressWarnings("unchecked")
 	@Override
 	public void start(Future<Void> startFuture) throws Exception
@@ -54,6 +64,9 @@ public class MainVerticle extends AbstractVerticle
 
 	}
 
+	/**
+	 * Main Verticle 종료
+	 */
 	@Override
 	public void stop(Future<Void> startFuture)
 	{
@@ -62,6 +75,10 @@ public class MainVerticle extends AbstractVerticle
 		startFuture.complete();
 	}
 
+	/**
+	 * VertX 종료 처리
+	 * @param arg
+	 */
 	private void Exit(int arg)
 	{
 		vertx.close();
