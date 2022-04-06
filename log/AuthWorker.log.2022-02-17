@@ -1,0 +1,7 @@
+[07:59:45][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[08:00:22][ERROR](AuthWorker.java:90) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[08:01:50][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[08:02:48][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[08:03:36][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[08:05:11][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[08:06:35][INFO ](AuthWorker.java:38) - AuthWorker Start!!

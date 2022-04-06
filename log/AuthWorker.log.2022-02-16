@@ -1,0 +1,36 @@
+[15:20:41][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:24:42][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:26:51][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:36:47][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:41:07][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:41:11][ERROR](AuthWorker.java:118) - Request for Different Class|JOB_STATUS:INFO|CLASS_NAME:kr.co.kti.lcs.verticle.DTGServerVerticle|IDENTITY_NO:01221049982
+[15:43:00][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:43:03][ERROR](AuthWorker.java:118) - Request for Different Class|JOB_STATUS:INFO|CLASS_NAME:kr.co.kti.lcs.verticle.DTGServerVerticle|IDENTITY_NO:01221049982
+[15:49:10][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:52:18][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[15:53:27][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:13:51][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:19:47][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:21:42][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:23:06][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:25:44][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:28:57][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:33:10][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:45:39][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:46:12][INFO ](AuthWorker.java:39) - AuthWorker Start!!
+[16:58:22][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:24:14][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:25:01][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:25:36][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:30:28][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:48:08][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:49:32][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:50:43][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:52:25][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:53:01][ERROR](AuthWorker.java:90) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[17:54:00][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:54:34][ERROR](AuthWorker.java:90) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[17:55:41][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:56:16][ERROR](AuthWorker.java:90) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[17:56:56][INFO ](AuthWorker.java:38) - AuthWorker Start!!
+[17:57:46][ERROR](AuthWorker.java:90) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982

@@ -1,0 +1,18 @@
+[13:51:12][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[13:52:37][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[13:53:10][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[13:53:43][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[13:55:13][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[13:55:46][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[13:57:04][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[13:57:14][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[13:57:46][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[16:42:01][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[16:42:37][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[16:44:36][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[16:45:08][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[16:48:37][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[16:49:46][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[16:53:00][DEBUG](AuthWorker.java:39) - AuthWorker Start!!
+[16:53:32][ERROR](AuthWorker.java:91) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:INFO|CLASS_NAME:null|IDENTITY_NO:01221049982
+[17:43:18][DEBUG](AuthWorker.java:39) - AuthWorker Start!!

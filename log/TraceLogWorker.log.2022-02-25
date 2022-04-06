@@ -1,0 +1,221 @@
+[10:39:59] TraceLogWorker Start!!
+[10:40:56] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:40:56] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:40:56] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:41:26] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:43:11] TraceLogWorker Start!!
+[10:43:15] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:43:15] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:43:15] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:43:45] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:44:44] TraceLogWorker Start!!
+[10:44:55] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:44:55] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:44:55] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:45:25] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:50:23] TraceLogWorker Start!!
+[10:50:25] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:50:25] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:50:25] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:50:55] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:51:07] TraceLogWorker Start!!
+[10:51:10] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:51:10] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:51:10] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:51:41] TraceLogWorker Start!!
+[10:51:43] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:51:43] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:51:43] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:52:13] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:54:06] TraceLogWorker Start!!
+[10:54:09] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:54:09] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:54:09] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:54:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[10:54:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[10:54:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[10:54:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[10:54:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[10:54:39] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[10:57:56] TraceLogWorker Start!!
+[10:58:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[10:58:12] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[10:58:12] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[10:58:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[10:58:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[10:58:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[10:58:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[10:58:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[10:58:42] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:18:30] TraceLogWorker Start!!
+[13:18:32] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:18:32] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:18:32] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:18:32] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:18:32] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:18:32] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:18:32] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:18:32] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:19:02] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:20:05] TraceLogWorker Start!!
+[13:20:07] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:20:07] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:20:07] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:20:07] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:20:07] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:20:07] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:20:07] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Failed in Create Temp File : /loop/dtg\temp\null.raw
+[13:20:07] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 00
+[13:20:07] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:22:28] TraceLogWorker Start!!
+[13:22:29] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:22:29] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:22:29] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:22:29] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:22:29] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:22:29] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:22:29] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Failed in Create Temp File : C:/PDS/PC_PDS/dtg\temp\null.raw
+[13:22:29] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 00
+[13:22:29] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:23:31] TraceLogWorker Start!!
+[13:23:33] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:23:33] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:23:33] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:23:43] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:23:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:23:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:23:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:23:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:24:32] TraceLogWorker Start!!
+[13:24:36] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:24:36] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:24:36] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:24:36] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:24:36] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:24:36] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:27:59] TraceLogWorker Start!!
+[13:28:03] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:28:03] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:28:03] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:28:03] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:28:03] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:28:03] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:28:03] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Created Temp File : C:\PDS\PC_PDS\dtg\temp\null.raw
+[13:28:03] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Completed Moving in Create File : C:\PDS\PC_PDS\dtg\null.raw
+[13:28:03] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 01
+[13:28:03] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:29:13] TraceLogWorker Start!!
+[13:29:15] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:29:15] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:29:15] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:29:15] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:29:15] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:29:15] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:29:45] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[13:29:45] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Failed in Rqeuset FileCreateWorker
+[13:29:45] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 00
+[13:31:04] TraceLogWorker Start!!
+[13:31:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[13:31:12] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:31:12] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[13:31:12] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[13:31:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[13:31:12] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[13:31:12] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Created Temp File : C:\PDS\PC_PDS\dtg\temp\MOBILE_RAW_01221049982__20220225133112534_.raw
+[13:31:12] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Completed Moving in Create File : C:\PDS\PC_PDS\dtg\MOBILE_RAW_01221049982__20220225133112534_.raw
+[13:31:12] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 01
+[13:31:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:48:50] TraceLogWorker Start!!
+[14:48:52] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:48:52] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:48:52] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[14:48:52] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[14:48:52] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[14:48:52] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:48:52] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Created Temp File : C:\PDS\PC_PDS\dtg\temp\MOBILE_RAW_01221049982__20220225144852574_.raw
+[14:48:52] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Completed Moving in Create File : C:\PDS\PC_PDS\dtg\MOBILE_RAW_01221049982__20220225144852574_.raw
+[14:48:52] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 01
+[14:48:52] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:56:23] TraceLogWorker Start!!
+[14:56:24] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:56:24] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:56:24] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Drive Time in DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Driving Info Code(SED) Parsing in DTSS Data
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validing Factor in DTSS Data
+[14:56:25] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Processed Complete by DTSS from Buffer
+[14:56:25] [kr.co.kti.lcs.service.LoopDtgDTSSService] Making RAW Data from DTSS Data
+[14:56:25] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:56:25] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Created Temp File : C:\PDS\PC_PDS\dtg\temp\MOBILE_RAW_01221049982__20220225145625940_.raw
+[14:56:25] [kr.co.kti.lcs.worker.FileCreateWorker] Reqeust 'DTSS' Command from Client [01221049982] Completed Moving in Create File : C:\PDS\PC_PDS\dtg\MOBILE_RAW_01221049982__20220225145625940_.raw
+[14:56:25] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982] Response Code : 01
+[14:56:25] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]

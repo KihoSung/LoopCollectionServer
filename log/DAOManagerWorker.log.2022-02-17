@@ -1,0 +1,88 @@
+[07:59:45][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[07:59:45][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[07:59:45][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[07:59:45][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[07:59:45][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[07:59:45][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[07:59:45][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[07:59:45][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[07:59:46][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[07:59:46][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[07:59:52][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:01:50][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:01:50][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:01:50][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:01:50][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:01:50][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:01:50][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:01:50][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:01:50][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:01:51][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:01:51][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:01:55][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:01:55][DEBUG](DAOService.java:27) - 01221049982
+[08:01:55][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = 01221049982
+[08:02:48][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:02:48][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:02:48][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:02:48][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:02:48][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:02:48][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:02:48][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:02:49][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:02:49][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:02:49][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:02:52][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:02:52][DEBUG](DAOService.java:27) - 01221049982
+[08:02:52][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[08:03:36][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:03:36][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:03:36][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:03:36][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:03:36][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:03:37][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:03:37][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:03:37][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:03:37][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:03:37][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:03:42][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:03:42][DEBUG](DAOService.java:27) - 01221049982
+[08:03:42][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[08:05:11][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:05:11][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:05:11][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:05:11][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:05:11][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:05:11][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:05:11][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:05:11][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:05:12][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:05:12][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:05:16][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:05:16][DEBUG](DAOService.java:27) - 01221049982
+[08:05:16][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[08:06:35][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:06:35][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:06:35][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:06:35][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:06:35][INFO ](DAOManagerWorker.java:46) - DAOManagerWorker Start!!
+[08:06:35][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:06:35][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:06:35][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:06:36][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:06:36][DEBUG](DAOManagerWorker.java:182) - OK .. db connection
+[08:06:40][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:06:40][DEBUG](DAOService.java:27) - 01221049982
+[08:06:40][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[08:59:08][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[08:59:08][DEBUG](DAOService.java:27) - 01221049982
+[08:59:08][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[09:20:24][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[09:20:24][DEBUG](DAOService.java:27) - 01221049982
+[09:20:24][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[09:20:36][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[09:20:36][DEBUG](DAOService.java:27) - 01221049982
+[09:20:36][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'
+[11:19:17][DEBUG](DAOManagerWorker.java:148) - loopDtgINFOBody.getCRC() : 0
+[11:19:17][DEBUG](DAOService.java:27) - 01221049982
+[11:19:17][DEBUG](DAOService.java:32) - strSql:SELECT COUNT(DVC_ID) FROM SBSC WHERE DVC_ID = '01221049982'

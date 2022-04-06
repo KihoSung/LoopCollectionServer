@@ -1,0 +1,117 @@
+[15:20:41] TraceLogWorker Start!!
+[15:24:42] TraceLogWorker Start!!
+[15:26:51] TraceLogWorker Start!!
+[15:36:47] TraceLogWorker Start!!
+[15:41:08] TraceLogWorker Start!!
+[15:41:11] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[15:41:11] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Class Name ERROR : kr.co.kti.lcs.verticle.DTGServerVerticle
+[15:41:41] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[15:43:00] TraceLogWorker Start!!
+[15:43:03] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[15:43:03] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Class Name ERROR : kr.co.kti.lcs.verticle.DTGServerVerticle
+[15:43:33] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[15:49:10] TraceLogWorker Start!!
+[15:49:13] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[15:49:43] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[15:52:18] TraceLogWorker Start!!
+[15:52:23] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[15:52:53] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[15:53:27] TraceLogWorker Start!!
+[15:53:30] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[15:54:00] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:13:51] TraceLogWorker Start!!
+[16:13:54] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:14:24] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:19:07] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:19:48] TraceLogWorker Start!!
+[16:19:53] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:20:23] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:21:42] TraceLogWorker Start!!
+[16:21:46] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:22:16] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:23:06] TraceLogWorker Start!!
+[16:23:09] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:23:39] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:25:44] TraceLogWorker Start!!
+[16:25:46] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:26:16] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:28:57] TraceLogWorker Start!!
+[16:29:00] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:29:00] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[16:29:00] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[16:29:30] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:33:10] TraceLogWorker Start!!
+[16:33:31] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:33:31] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[16:33:31] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[16:34:01] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:45:39] TraceLogWorker Start!!
+[16:45:44] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:45:44] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[16:45:44] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[16:46:12] TraceLogWorker Start!!
+[16:46:17] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:46:17] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[16:46:17] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[16:46:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[16:58:22] TraceLogWorker Start!!
+[16:58:25] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[16:58:25] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[16:58:25] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[16:58:55] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:03:13] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:03:13] [kr.co.kti.lcs.worker.AuthWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:03:13] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:03:43] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:24:14] TraceLogWorker Start!!
+[17:25:01] TraceLogWorker Start!!
+[17:25:37] TraceLogWorker Start!!
+[17:30:29] TraceLogWorker Start!!
+[17:49:32] TraceLogWorker Start!!
+[17:49:37] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:49:37] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:49:37] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:49:37] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:49:37] [kr.co.kti.lcs.worker.DAOManagerWorker] Select Count[0] DAOService by JOB_STATUS [INFO][01221049982]
+[17:49:37] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00
+[17:49:37] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:50:44] TraceLogWorker Start!!
+[17:50:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:50:47] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:50:47] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:50:47] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:50:47] [kr.co.kti.lcs.worker.DAOManagerWorker] Select Count[0] DAOService by JOB_STATUS [INFO][01221049982]
+[17:50:47] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00
+[17:50:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:52:26] TraceLogWorker Start!!
+[17:52:30] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:52:31] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:52:31] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:52:31] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:53:01] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:53:01] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Failed in Rqeuset DAOManagerWorker
+[17:53:01] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00
+[17:54:00] TraceLogWorker Start!!
+[17:54:04] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:54:04] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:54:04] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:54:04] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:54:34] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:54:34] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Failed in Rqeuset DAOManagerWorker
+[17:54:34] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00
+[17:55:42] TraceLogWorker Start!!
+[17:55:46] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:55:46] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:55:46] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:55:46] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:56:16] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:56:16] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Failed in Rqeuset DAOManagerWorker
+[17:56:16] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00
+[17:56:57] TraceLogWorker Start!!
+[17:57:16] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'INFO' Command from Client [01221049982]
+[17:57:16] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Request DAOService by COMMAND_ID_AUTH
+[17:57:16] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [INFO][01221049982]
+[17:57:16] [kr.co.kti.lcs.worker.DAOManagerWorker][01221049982] Complete Parsing INFO Data from Buffer
+[17:57:46] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTCS' Command to Client [01221049982]
+[17:57:46] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Failed in Rqeuset DAOManagerWorker
+[17:57:46] [kr.co.kti.lcs.worker.AuthWorker] Reqeust 'INFO' Command from Client [01221049982] Response Code : 00

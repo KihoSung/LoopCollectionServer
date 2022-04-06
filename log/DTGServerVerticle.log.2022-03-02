@@ -1,0 +1,1615 @@
+[07:55:56][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[07:55:56][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[07:55:56][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[07:55:56][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[07:55:56][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[07:55:56][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[07:55:56][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[07:55:56][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[07:55:56][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[07:55:56][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[07:55:56][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[07:55:56][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[07:55:56][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[07:55:56][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[07:55:56][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[07:55:56][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[07:55:56][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[07:55:56][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[07:55:56][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[07:55:56][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[07:55:58][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[07:55:58][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[07:55:58][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[07:55:58][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[07:56:24][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:56:24][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:56:24][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:56:52][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:56:52][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:56:52][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:56:56][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:56:56][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:56:56][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:56:58][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:56:58][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:56:58][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:57:10][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[07:57:10][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[07:57:10][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[07:57:10][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[07:57:26][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:57:26][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:57:26][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:57:30][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:57:30][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:57:30][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[07:57:32][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[07:57:32][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[07:57:32][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:02:59][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:02:59][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:02:59][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:02:59][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:02:59][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:02:59][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:02:59][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:02:59][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:02:59][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:02:59][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:02:59][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:02:59][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:02:59][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:02:59][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:02:59][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:02:59][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:02:59][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:02:59][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:02:59][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:02:59][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:03:01][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:03:01][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:03:01][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:03:01][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:03:04][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:04][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:04][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:03:15][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:15][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:15][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:03:30][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:30][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:30][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:03:33][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:33][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:33][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:03:35][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:35][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:35][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:03:37][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:03:37][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:03:37][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:10:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:10:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:10:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:10:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:10:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:10:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:10:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:10:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:10:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:10:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:10:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:10:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:10:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:10:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:10:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:10:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:10:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:10:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:10:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:10:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:10:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:10:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:10:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:10:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:10:44][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:10:44][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:10:44][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:10:50][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:10:50][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:10:50][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:10:53][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:10:53][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:10:53][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:10:55][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:10:55][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:10:55][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:10:59][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:10:59][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:10:59][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:11:01][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:11:01][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:11:01][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:11:03][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:11:03][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:11:03][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:27:44][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:27:44][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:27:44][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:27:44][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:27:44][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:27:44][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:27:44][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:27:44][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:27:44][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:27:44][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:27:44][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:27:44][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:27:44][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:27:44][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:27:44][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:27:44][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:27:44][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:27:44][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:27:44][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:27:44][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:27:46][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:27:46][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:27:46][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:27:46][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:27:53][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:27:53][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:27:53][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:27:58][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:27:58][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:27:58][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:28:00][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:28:00][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:28:00][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:28:02][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:28:02][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:28:02][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:28:04][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:28:04][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:28:04][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:28:06][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:28:06][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:28:06][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:28:07][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:28:07][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:28:07][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:29:00][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:29:00][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:29:00][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:29:00][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:29:00][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:29:00][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:29:00][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:29:00][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:29:00][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:29:00][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:29:00][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:29:00][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:29:00][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:29:00][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:29:00][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:29:00][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:29:00][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:29:00][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:29:00][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:29:00][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:29:03][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:29:03][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:29:03][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:29:03][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:29:05][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:29:05][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:29:05][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:16][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:40:16][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:40:16][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:40:16][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[08:40:16][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:40:16][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:40:16][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:40:16][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[08:40:16][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:40:16][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:40:16][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:40:16][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:40:16][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:40:16][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[08:40:16][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:40:16][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:40:16][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:40:16][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[08:40:16][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:40:16][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[08:40:18][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:40:18][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:40:18][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:40:18][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[08:40:19][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:19][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:19][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:24][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:24][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:24][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:25][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:25][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:25][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:28][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:28][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:28][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:30][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:30][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:30][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:32][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:32][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:32][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:34][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:34][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:34][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:36][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:36][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:36][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:37][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:37][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:37][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:39][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:39][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:39][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:41][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:41][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:41][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:44][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:44][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:44][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:48][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:48][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:48][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:50][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:50][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:50][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:40:52][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:40:52][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:40:52][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[08:41:35][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[08:41:35][DEBUG](DTGServerVerticle.java:224) - strReturn:INFO
+[08:41:35][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[09:44:02][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:44:02][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:44:02][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:44:02][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:44:02][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:44:02][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:44:02][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:44:02][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:44:02][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:44:02][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:44:02][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:44:02][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:44:02][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:44:02][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:44:02][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:44:02][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:44:02][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:44:02][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:44:02][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:44:02][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:44:04][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:44:04][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:44:04][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:44:04][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:44:41][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[09:44:41][DEBUG](DTGServerVerticle.java:226) - strReturn:INFO
+[09:44:41][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[09:44:41][DEBUG](DTGServerVerticle.java:214) - RES Buffer : null
+[09:48:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:48:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:48:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:48:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[09:48:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:48:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:48:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:48:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[09:48:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:48:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:48:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:48:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:48:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:48:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[09:48:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:48:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:48:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:48:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[09:48:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:48:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[09:48:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:48:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:48:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:48:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[09:48:14][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[09:48:14][DEBUG](DTGServerVerticle.java:226) - strReturn:INFO
+[09:48:14][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[09:48:14][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:20:17][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:20:17][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:20:17][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:20:17][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:20:17][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:20:17][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:20:17][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:20:17][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:20:17][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:20:17][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:20:17][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:20:17][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:20:17][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:20:17][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:20:17][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:20:17][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:20:17][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:20:17][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:20:17][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:20:17][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:20:19][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:20:19][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:20:19][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:20:19][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:27:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:27:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:27:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:27:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:27:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:27:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:27:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:27:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:27:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:27:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:27:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:27:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:27:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:27:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:27:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:27:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:27:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:27:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:27:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:27:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:27:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:27:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:27:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:27:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:27:33][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:27:33][DEBUG](DTGServerVerticle.java:230) - strReturn:INFO
+[10:27:33][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:27:33][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:27:33][DEBUG](DTGServerVerticle.java:149) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:28:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:48][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:48][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:48][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:48][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:28:48][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:48][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:48][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:48][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:28:48][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:48][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:48][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:48][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:48][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:48][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:28:48][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:48][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:48][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:48][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:28:48][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:48][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:28:50][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:50][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:50][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:50][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:28:53][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:28:53][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:28:53][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:28:53][DEBUG](DTGServerVerticle.java:216) - 11RES Buffer : null
+[10:28:53][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:29:35][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[10:30:49][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:30:49][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:30:49][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:30:49][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:30:49][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:30:49][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:30:49][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:30:49][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:30:49][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:30:49][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:30:49][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:30:49][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:30:49][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:30:49][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:30:49][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:30:49][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:30:49][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:30:49][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:30:49][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:30:49][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:30:51][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:30:51][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:30:51][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:30:51][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:30:53][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:30:53][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:30:53][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:30:53][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:30:53][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[10:32:29][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:32:29][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:32:29][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:32:29][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:32:29][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:32:29][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:32:29][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:32:29][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:32:29][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:32:29][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:32:29][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:32:29][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:32:29][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:32:29][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:32:29][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:32:29][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:32:29][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:32:29][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:32:29][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:32:29][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:32:31][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:32:31][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:32:31][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:32:31][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:32:45][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:32:45][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:32:45][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:32:45][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:32:45][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:32:45][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[10:34:22][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:34:22][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:34:22][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:34:22][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:34:22][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:34:22][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:34:22][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:34:22][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:34:22][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:34:22][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:34:22][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:34:22][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:34:22][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:34:22][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:34:22][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:34:22][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:34:22][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:34:22][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:34:22][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:34:22][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:34:24][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:34:24][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:34:24][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:34:24][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:34:30][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:34:30][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:34:30][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:34:30][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:34:30][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:34:30][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[10:37:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:37:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:37:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:37:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:37:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:37:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:37:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:37:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:37:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:37:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:37:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:37:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:37:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:37:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:37:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:37:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:37:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:37:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:37:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:37:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:37:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:37:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:37:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:37:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:46:08][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:46:08][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:46:08][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:46:08][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:46:08][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:46:08][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:46:08][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:46:08][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:46:08][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:46:08][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:46:08][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:46:08][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:46:08][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:46:08][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:46:08][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:46:08][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:46:08][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:46:08][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:46:08][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:46:08][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:46:10][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:46:10][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:46:10][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:46:10][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:46:21][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:46:21][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:46:21][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:46:22][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:46:22][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:46:22][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[10:55:40][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:55:40][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:55:40][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:55:40][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:55:40][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:55:40][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:55:40][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:55:40][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:55:40][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:55:40][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:55:40][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:55:40][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:55:40][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:55:40][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:55:40][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:55:40][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:55:40][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:55:40][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:55:40][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:55:40][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:55:42][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:55:42][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:55:42][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:55:42][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:59:25][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:59:25][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:59:25][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:59:25][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[10:59:25][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:59:25][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:59:25][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:59:25][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[10:59:25][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:59:25][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:59:25][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:59:25][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:59:25][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:59:25][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[10:59:25][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:59:25][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:59:25][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:59:25][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[10:59:25][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:59:25][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[10:59:27][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:59:27][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:59:27][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:59:27][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[10:59:50][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[10:59:50][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[10:59:50][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[10:59:50][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:59:50][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[10:59:50][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:00:47][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:00:47][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:00:47][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:00:47][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:00:47][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:00:47][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:00:47][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:00:47][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:00:47][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:00:47][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:00:47][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:00:47][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:00:47][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:00:47][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:00:47][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:00:47][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:00:47][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:00:47][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:00:47][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:00:47][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:00:49][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:00:49][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:00:49][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:00:49][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:01:04][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:01:04][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:01:04][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:01:05][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:01:05][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:01:05][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:03:37][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:03:37][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:03:37][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:03:37][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:03:37][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:03:37][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:03:37][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:03:37][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:03:37][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:03:37][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:03:37][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:03:37][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:03:37][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:03:37][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:03:37][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:03:37][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:03:37][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:03:37][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:03:37][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:03:37][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:03:39][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:03:39][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:03:39][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:03:39][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:03:55][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:03:55][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:03:55][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:03:55][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:03:55][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:03:55][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:06:07][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:06:07][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:06:07][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:06:22][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:06:26][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:06:26][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:06:26][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:06:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:06:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:06:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:06:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:06:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:06:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:06:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:06:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:06:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:06:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:06:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:06:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:06:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:06:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:06:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:06:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:06:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:06:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:06:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:06:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:06:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:06:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:06:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:06:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:07:51][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:07:51][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:07:51][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:07:51][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:07:51][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:07:51][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:07:51][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:07:51][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:07:51][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:07:51][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:07:51][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:07:51][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:07:51][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:07:51][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:07:51][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:07:51][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:07:51][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:07:51][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:07:51][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:07:51][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:07:53][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:07:53][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:07:53][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:07:53][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:07:57][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:07:57][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:07:57][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:07:57][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:07:57][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:07:57][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:08:31][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:08:31][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:08:31][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:08:41][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:08:41][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:08:41][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:08:59][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:08:59][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:09:01][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:09:01][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:09:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:09:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:09:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:09:26][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:09:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:09:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:09:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:09:26][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:09:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:09:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:09:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:09:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:09:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:09:26][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:09:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:09:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:09:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:09:26][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:09:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:09:26][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:09:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:09:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:09:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:09:28][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:09:32][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:09:32][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:09:32][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:09:32][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:09:32][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:09:32][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:10:09][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:10:09][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:10:09][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:10:39][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:10:39][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:10:39][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:12:39][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:12:39][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:12:39][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:12:39][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:12:39][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:12:39][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:12:39][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:12:39][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:12:39][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:12:39][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:12:39][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:12:39][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:12:39][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:12:39][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:12:39][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:12:39][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:12:39][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:12:39][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:12:39][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:12:39][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:12:41][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:12:41][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:12:41][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:12:41][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:12:46][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:12:46][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:12:46][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:12:46][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:12:46][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:12:46][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:13:54][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:13:54][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:13:54][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:14:24][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:14:24][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:14:24][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:26:42][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:26:42][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:26:42][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:26:42][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:26:42][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:26:42][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:26:42][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:26:42][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:26:42][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:26:42][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:26:42][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:26:42][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:26:42][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:26:42][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:26:42][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:26:42][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:26:42][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:26:42][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:26:42][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:26:42][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:26:44][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:26:44][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:26:44][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:26:44][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:26:48][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:26:48][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:26:48][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:26:49][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:26:49][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:26:49][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:11][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:11][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:11][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:11][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:11][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:11][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:13][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:13][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:13][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:13][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:13][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:13][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:15][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:15][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:15][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:16][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:16][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:16][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:16][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:16][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:16][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:16][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:16][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:16][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:20][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:20][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:20][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:20][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:20][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:20][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:20][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:20][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:20][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:20][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:20][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:20][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:22][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:22][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:22][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:22][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:27:22][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:27:22][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:27:22][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:22][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:22][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:22][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:27:22][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:27:22][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[11:36:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:36:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:36:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:36:36][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[11:36:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:36:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:36:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:36:36][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[11:36:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:36:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:36:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:36:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:36:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:36:36][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[11:36:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:36:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:36:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:36:36][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[11:36:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:36:36][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[11:36:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:36:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:36:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:36:38][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[11:36:45][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[11:36:45][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[11:36:45][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[11:36:45][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:36:45][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[11:36:45][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:09:06][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:09:06][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:09:06][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:09:06][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:09:06][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:09:06][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:09:06][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:09:06][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:09:06][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:09:06][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:09:06][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:09:06][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:09:06][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:09:06][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:09:06][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:09:06][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:09:06][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:09:06][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:09:06][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:09:06][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:09:08][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:09:08][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:09:08][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:09:08][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:09:15][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:09:15][DEBUG](DTGServerVerticle.java:228) - strReturn:INFO
+[13:09:15][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>280
+[13:09:16][DEBUG](DTGServerVerticle.java:145) - RES Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[13:09:16][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cfcc03000000000043535444000001000100000000c5d2cfd0
+[13:09:16][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:34:03][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:34:03][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:34:03][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:34:03][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:34:03][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:34:03][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:34:03][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:34:03][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:34:03][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:34:03][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:34:03][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:34:03][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:34:03][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:34:03][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:34:03][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:34:03][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:34:03][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:34:03][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:34:03][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:34:03][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:34:05][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:34:05][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:34:05][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:34:05][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:34:45][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:34:46][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:34:46][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[13:35:16][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:35:16][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:35:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:35:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:35:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:35:55][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:35:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:35:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:35:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:35:55][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:35:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:35:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:35:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:35:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:35:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:35:55][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:35:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:35:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:35:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:35:55][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:35:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:35:55][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:35:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:35:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:35:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:35:57][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:36:00][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:36:00][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:36:00][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[13:36:23][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:36:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:36:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:36:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:36:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:36:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:36:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:36:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:36:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:36:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:36:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:36:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:36:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:36:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:36:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:36:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:36:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:36:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:36:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:36:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:36:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:36:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:36:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:36:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:36:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:36:50][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:36:50][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:36:50][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[13:37:20][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:37:20][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:47:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:47:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:47:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:47:35][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:47:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:47:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:47:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:47:35][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:47:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:47:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:47:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:47:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:47:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:47:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:47:35][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:47:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:47:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:47:35][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:47:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:47:35][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:47:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:47:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:47:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:47:37][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:47:45][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:47:45][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:47:45][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[13:48:15][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:48:15][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:50:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:50:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:50:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:50:15][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:50:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:50:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:50:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:50:15][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:50:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:50:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:50:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:50:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:50:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:50:15][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:50:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:50:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:50:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:50:15][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:50:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:50:15][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:50:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:50:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:50:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:50:17][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:50:19][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:50:19][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:50:19][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[13:50:49][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:50:49][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:55:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:55:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:55:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:55:09][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:55:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:55:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:55:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:55:09][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:55:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:55:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:55:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:55:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:55:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:55:09][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:55:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:55:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:55:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:55:09][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:55:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:55:09][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:55:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:55:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:55:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:55:11][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:55:14][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:55:14][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:55:14][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[13:55:44][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:55:44][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[13:56:34][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:56:34][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:56:34][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:56:34][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:56:34][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:56:34][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:56:34][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:56:34][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:56:34][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:56:34][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:56:34][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[13:56:34][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:56:34][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:56:34][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:56:34][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:56:34][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:56:34][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[13:56:34][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[13:56:34][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[13:56:34][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[13:56:36][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:56:36][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:56:36][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:56:36][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[13:56:39][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[13:56:39][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[13:56:39][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[13:57:09][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[13:57:09][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[14:12:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:12:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:12:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:12:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:12:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:12:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:12:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:12:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:12:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:12:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:12:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:12:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:12:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:12:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:12:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:12:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:12:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:12:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:12:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:12:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:12:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:12:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:12:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:12:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:12:58][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[14:12:58][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[14:12:58][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[14:13:28][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[14:13:28][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[14:14:41][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:14:41][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:14:41][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:14:41][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:14:41][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:14:41][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:14:41][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:14:41][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:14:41][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:14:41][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:14:41][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:14:41][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:14:41][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:14:41][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:14:41][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:14:41][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:14:41][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:14:41][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:14:41][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:14:41][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:14:43][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:14:43][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:14:43][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:14:43][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:14:49][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[14:14:49][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[14:14:49][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[14:15:20][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[14:15:20][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[14:16:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:16:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:16:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:16:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:16:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:16:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:16:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:16:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:16:54][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[14:16:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:16:54][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[14:16:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:16:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:16:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:16:54][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[14:16:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:16:54][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[14:16:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:16:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:16:54][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[14:16:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:16:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:16:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:16:56][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[14:16:58][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[14:16:58][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[14:16:58][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[14:17:28][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[14:17:28][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[15:00:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:00:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:00:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:00:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:00:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:00:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:00:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:00:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:00:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:00:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:00:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:00:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:00:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:00:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:00:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:00:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:00:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:00:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:00:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:00:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:00:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:00:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:00:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:00:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:00:39][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[15:00:39][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[15:00:39][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[15:00:40][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000535354440000010001000000009ff4cfd0
+[15:00:40][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[15:02:23][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:02:23][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:02:23][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:02:23][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:02:23][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:02:23][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:02:23][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:02:23][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:02:23][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:02:23][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:02:23][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:02:23][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:02:23][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:02:23][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:02:23][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:02:23][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:02:23][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:02:23][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:02:23][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:02:23][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:02:25][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:02:25][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:02:25][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:02:25][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:02:28][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[15:02:28][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[15:02:28][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2060
+[15:59:38][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:59:38][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:59:38][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:59:38][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[15:59:38][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:59:38][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:59:38][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:59:38][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[15:59:38][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:59:38][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:59:38][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:59:38][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:59:38][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:59:38][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[15:59:38][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:59:38][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:59:38][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:59:38][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[15:59:38][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:59:38][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[15:59:40][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:59:40][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:59:40][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:59:40][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[15:59:47][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[15:59:47][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[15:59:47][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[15:59:47][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000535354440000010001000000009ff4cfd0
+[15:59:47][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[16:00:34][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[16:00:34][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[16:00:34][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[16:01:04][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[16:01:04][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[16:02:20][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:02:20][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:02:20][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:02:20][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:02:20][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:02:20][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:02:20][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:02:20][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:02:20][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:02:20][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:02:20][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:02:20][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:02:20][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:02:20][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:02:20][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:02:20][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:02:20][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:02:20][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:02:20][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:02:20][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:02:22][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:02:22][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:02:22][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:02:22][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:02:22][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[16:02:22][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[16:02:22][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[16:02:50][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[16:04:11][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:04:11][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:04:11][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:04:11][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:04:11][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:04:11][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:04:11][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:04:11][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:04:11][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:04:11][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:04:11][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:04:11][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:04:11][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:04:11][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:04:11][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:04:11][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:04:11][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:04:11][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:04:11][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:04:11][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:04:13][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:04:13][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:04:13][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:04:13][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:04:16][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[16:04:16][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[16:04:16][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[16:05:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:05:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:05:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:05:32][DEBUG](DTGServerVerticle.java:43) - DTGServerVerticle Start!!
+[16:05:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:05:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:05:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:05:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:05:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:05:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:05:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:05:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:05:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:05:32][DEBUG](DTGServerVerticle.java:66) - Initial LOOP DTG Socket Server!!
+[16:05:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:05:32][DEBUG](DTGServerVerticle.java:68) - SERVER_IP : 127.0.0.1
+[16:05:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:05:32][DEBUG](DTGServerVerticle.java:69) - SERVER_PORT : 39001
+[16:05:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:05:32][DEBUG](DTGServerVerticle.java:70) - MAX_CONN : 5000
+[16:05:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:05:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:05:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:05:34][DEBUG](DTGServerVerticle.java:101) - Succ listening..
+[16:05:38][DEBUG](DTGServerVerticle.java:88) - Recv data from client
+[16:05:38][DEBUG](DTGServerVerticle.java:228) - strReturn:DTSS
+[16:05:38][DEBUG](DTGServerVerticle.java:116) - ====================buffer==========>2072
+[16:05:47][DEBUG](DTGServerVerticle.java:252) - Write Buffer : cccf030000000000535354440000010001000000009ff4cfd0
+[16:05:47][DEBUG](DTGServerVerticle.java:94) - socket is closed
+[17:02:44][DEBUG](DTGServerVerticle.java:45) - DTGServerVerticle Start!!
+[17:02:44][DEBUG](DTGServerVerticle.java:45) - DTGServerVerticle Start!!
+[17:02:44][DEBUG](DTGServerVerticle.java:45) - DTGServerVerticle Start!!
+[17:02:44][DEBUG](DTGServerVerticle.java:45) - DTGServerVerticle Start!!
+[17:02:44][DEBUG](DTGServerVerticle.java:68) - Initial LOOP DTG Socket Server!!
+[17:02:44][DEBUG](DTGServerVerticle.java:68) - Initial LOOP DTG Socket Server!!
+[17:02:44][DEBUG](DTGServerVerticle.java:68) - Initial LOOP DTG Socket Server!!
+[17:02:44][DEBUG](DTGServerVerticle.java:68) - Initial LOOP DTG Socket Server!!
+[17:02:44][DEBUG](DTGServerVerticle.java:70) - SERVER_IP : 127.0.0.1
+[17:02:44][DEBUG](DTGServerVerticle.java:70) - SERVER_IP : 127.0.0.1
+[17:02:44][DEBUG](DTGServerVerticle.java:70) - SERVER_IP : 127.0.0.1
+[17:02:44][DEBUG](DTGServerVerticle.java:71) - SERVER_PORT : 39001
+[17:02:44][DEBUG](DTGServerVerticle.java:71) - SERVER_PORT : 39001
+[17:02:44][DEBUG](DTGServerVerticle.java:70) - SERVER_IP : 127.0.0.1
+[17:02:44][DEBUG](DTGServerVerticle.java:72) - MAX_CONN : 5000
+[17:02:44][DEBUG](DTGServerVerticle.java:72) - MAX_CONN : 5000
+[17:02:44][DEBUG](DTGServerVerticle.java:71) - SERVER_PORT : 39001
+[17:02:44][DEBUG](DTGServerVerticle.java:71) - SERVER_PORT : 39001
+[17:02:44][DEBUG](DTGServerVerticle.java:72) - MAX_CONN : 5000
+[17:02:44][DEBUG](DTGServerVerticle.java:72) - MAX_CONN : 5000
+[17:02:46][DEBUG](DTGServerVerticle.java:121) - Succ listening..
+[17:02:46][DEBUG](DTGServerVerticle.java:121) - Succ listening..
+[17:02:46][DEBUG](DTGServerVerticle.java:121) - Succ listening..
+[17:02:46][DEBUG](DTGServerVerticle.java:121) - Succ listening..
+[17:02:50][DEBUG](DTGServerVerticle.java:108) - Recv data from client
+[17:02:50][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:50][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:51][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:51][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:51][DEBUG](DTGServerVerticle.java:114) - socket is closed
+[17:02:51][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:51][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:51][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:51][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:51][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:51][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:51][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:51][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:52][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:52][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:52][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:52][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:52][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:52][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:52][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:52][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:53][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:53][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:53][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:53][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:53][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:53][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:53][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:53][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:54][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:54][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:54][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:54][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:54][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:54][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:54][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:54][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:55][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:55][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:55][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:55][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:55][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:55][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:55][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:55][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:56][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:56][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:56][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:56][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:56][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:56][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:56][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:56][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:57][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:57][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:57][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:57][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:57][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:57][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:57][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:57][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:58][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:58][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:58][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:58][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:58][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:58][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:58][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:58][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:59][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:59][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:59][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:59][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:59][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:02:59][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:02:59][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:02:59][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:00][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:00][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:00][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:00][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:00][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:00][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:00][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:00][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:01][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:01][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:01][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:01][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:01][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:01][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:01][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:01][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:02][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:02][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:02][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:02][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:02][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:02][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:02][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:02][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:03][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:03][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:03][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:03][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:03][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:03][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:03][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:03][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:04][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:04][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:04][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:04][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:04][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:04][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:04][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:04][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:05][DEBUG](DTGServerVerticle.java:248) - strReturn:INFO
+[17:03:05][DEBUG](DTGServerVerticle.java:136) - ====================buffer==========>280
+[17:03:05][DEBUG](DTGServerVerticle.java:165) - RES Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[17:03:05][DEBUG](DTGServerVerticle.java:272) - Write Buffer : cccf030000000000435354440000010001000000002be2cfd0
+[18:01:33][DEBUG](DTGServerVerticle.java:46) - DTGServerVerticle Start!!
+[18:01:33][DEBUG](DTGServerVerticle.java:46) - DTGServerVerticle Start!!
+[18:01:33][DEBUG](DTGServerVerticle.java:46) - DTGServerVerticle Start!!
+[18:01:33][DEBUG](DTGServerVerticle.java:46) - DTGServerVerticle Start!!
+[18:01:33][DEBUG](DTGServerVerticle.java:71) - Initial LOOP DTG Socket Server!!
+[18:01:33][DEBUG](DTGServerVerticle.java:71) - Initial LOOP DTG Socket Server!!
+[18:01:33][DEBUG](DTGServerVerticle.java:71) - Initial LOOP DTG Socket Server!!
+[18:01:33][DEBUG](DTGServerVerticle.java:71) - Initial LOOP DTG Socket Server!!
+[18:01:33][DEBUG](DTGServerVerticle.java:73) - SERVER_IP : 127.0.0.1
+[18:01:33][DEBUG](DTGServerVerticle.java:73) - SERVER_IP : 127.0.0.1
+[18:01:33][DEBUG](DTGServerVerticle.java:73) - SERVER_IP : 127.0.0.1
+[18:01:33][DEBUG](DTGServerVerticle.java:74) - SERVER_PORT : 39001
+[18:01:33][DEBUG](DTGServerVerticle.java:74) - SERVER_PORT : 39001
+[18:01:33][DEBUG](DTGServerVerticle.java:75) - MAX_CONN : 5000
+[18:01:33][DEBUG](DTGServerVerticle.java:73) - SERVER_IP : 127.0.0.1
+[18:01:33][DEBUG](DTGServerVerticle.java:75) - MAX_CONN : 5000
+[18:01:33][DEBUG](DTGServerVerticle.java:74) - SERVER_PORT : 39001
+[18:01:33][DEBUG](DTGServerVerticle.java:75) - MAX_CONN : 5000
+[18:01:33][DEBUG](DTGServerVerticle.java:74) - SERVER_PORT : 39001
+[18:01:33][DEBUG](DTGServerVerticle.java:75) - MAX_CONN : 5000
+[18:01:35][DEBUG](DTGServerVerticle.java:118) - Succ listening..
+[18:01:35][DEBUG](DTGServerVerticle.java:118) - Succ listening..
+[18:01:35][DEBUG](DTGServerVerticle.java:118) - Succ listening..
+[18:01:35][DEBUG](DTGServerVerticle.java:118) - Succ listening..
+[18:01:39][DEBUG](DTGServerVerticle.java:94) - Recv data from client

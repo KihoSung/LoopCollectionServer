@@ -1,0 +1,88 @@
+[13:51:10][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[13:51:10][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : a5168891-8814-4521-97f5-5aebaf6620e7
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : 1b9211e2-6f1b-473d-8c2b-5ff8b69dd4c5
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 3a2d5266-a712-4a6c-bd55-8414a3086d62
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : be27741e-56ea-4425-b838-f68557377570
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : f83532d1-5a95-47dc-8894-8b09641111ad
+[13:51:12][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 5ebbe808-5c76-42ae-893e-e153990a43b4
+[13:53:08][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[13:53:08][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : abbade49-f2ea-4e4e-85bc-c1660ae30747
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : 909840a0-fedc-4ae2-a702-375d6ea974cd
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 1d2a4ab7-d2b5-4d73-b870-d0ece5d06789
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 7b168502-0728-4495-9cb4-ef0607eac817
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 341c521d-bf8f-4650-b718-7eac038be04b
+[13:53:10][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 71039c3f-6003-4221-88d2-1afdba5b8543
+[13:55:11][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[13:55:11][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 09e517e7-75ca-4f6b-9121-599a7205d231
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : 8636c839-d2bb-40ca-9629-9478877b6ccf
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 1cc69e8c-f5bf-410a-8f12-5a2376eaea5b
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : fc5fbe43-7143-4e50-877c-b033ae45954a
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 91af8054-a66f-45dd-b926-c9b459abb655
+[13:55:13][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 30836966-33d8-4208-95ad-7b937c09f558
+[13:57:02][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[13:57:02][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : d80b33e8-471c-4866-b3d1-6512ceed970f
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : ae120564-b277-4f46-ade6-30cfd6ce5cd5
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 39bd05a2-0849-42dd-946b-8e5ccd9b08e3
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 617bc6a5-dddc-4ab9-a363-54f2e2b9c75b
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : be322ff2-23b1-46c7-a8b6-9340b8ce1fc3
+[13:57:04][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 4dede389-73f3-4a35-82fc-f6b9b4e5dfaa
+[13:57:12][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[13:57:12][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 2c661bb4-cac3-474f-ad9b-98ae70ac2598
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : 091ed8ba-0fa2-4fd4-8377-aeee4a21b9e6
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 605a8cce-c472-46d6-b175-13605320e101
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 31887db8-1733-4b69-a931-d345d1aa918c
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 5c077082-db80-4ea2-addb-389fc63570be
+[13:57:14][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : ad1e17e1-a686-4aa6-9706-28e145ae426f
+[16:41:59][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[16:41:59][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 21b6b0b1-3579-4c35-aceb-0c8307bc7494
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : f20c0d99-50a4-4cde-908d-e1b39f01d8aa
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : b144ff53-2071-4406-9717-9a0b1d0eda91
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 9b76ad26-a87e-4faf-94d1-ad486757734b
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 4cc85120-63f1-4566-9ee5-aabf9dadb1ca
+[16:42:01][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : eb5afc45-19c2-40b5-9d92-f99ed34d8e42
+[16:44:34][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[16:44:34][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 90890588-4171-48ea-84fd-296fa630d022
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : 2d87d7a2-d359-4cc1-a95e-e19383ebae35
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 701393b4-3c2f-43b6-b518-0c4c1833a06e
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 3133bff1-7b02-4cf8-a092-69e75f4dd07e
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : e0d8c66f-c324-4c50-a9fa-7ceeac9e23e3
+[16:44:36][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : a3dd2a12-a3fc-4622-8616-d80e0b5405f6
+[16:48:34][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[16:48:34][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 22998159-5dec-431d-af33-77dc7a79456d
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : ec42f630-d919-4925-bbfb-6cff3ef446cf
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 29c76cc9-4747-4904-89a1-c01800ab9d94
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 770f1026-4687-449e-9eba-8f1598ae6168
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 41e4850d-99c6-46b3-b0fd-396f73577465
+[16:48:37][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 61552f8d-7c59-4d33-a3e1-85f9714adb8c
+[16:49:44][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[16:49:44][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 14ac6e26-4612-4eab-866a-509016dfb64f
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : b6cc8a1d-4bf4-4d00-af3b-11dad1d8975f
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 74f8c45a-a93c-4862-8383-4e5e9ce42322
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 4b540abf-82e7-4c1a-b461-19486305c07d
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : baf0bdb2-f923-4130-ae29-960b6029f802
+[16:49:46][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : a6ffea06-6c34-4bab-b50e-ba92b5278f87
+[16:52:58][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[16:52:58][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 6f50e0c5-26cc-4bc2-be7e-5a7ddb0a3de5
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : cbdca6ab-48f2-4007-8d70-afc1609d0824
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 90c99990-122e-43f6-a8b6-7d78f2d5f6eb
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : e18caff4-f380-4eb4-a533-a31d154d9ffb
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : da4639e6-ed20-41b7-a415-20662363fed9
+[16:53:00][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 1970ee6a-73cb-4bd7-ae38-67c1847f4e4a
+[17:43:15][DEBUG](MainVerticle.java:25) - MainVerticle Start!!
+[17:43:15][DEBUG](MainVerticle.java:41) - verticle list count : 7
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.verticle.DTGServerVerticle : 3da03210-9e78-4198-ad3e-af29df64dcc2
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.AuthWorker : a5552fc5-67a8-4fdd-a992-2da88b497cc5
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DAOManagerWorker : 96a925f6-636c-4c5c-b95c-f5d768c40ffb
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.DrivingDataProcWorker : 10d19b4f-fa32-4560-9526-c36c5cc2d43d
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.EventDataProcWorker : 9cf6ef7b-56a2-44d0-a62d-a2340d5933f5
+[17:43:18][DEBUG](MainVerticle.java:110) - Deploy Success : kr.co.kti.lcs.worker.FileCreateWorker : 723d7d88-948d-4e13-9879-bfa4f8829891

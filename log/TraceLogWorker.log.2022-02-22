@@ -1,0 +1,158 @@
+[14:02:43] TraceLogWorker Start!!
+[14:06:00] TraceLogWorker Start!!
+[14:06:06] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:06:06] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:06:36] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:06:49] TraceLogWorker Start!!
+[14:06:52] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:06:52] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:06:52] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:07:22] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:07:51] TraceLogWorker Start!!
+[14:07:53] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:07:53] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:07:53] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:08:23] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:10:19] TraceLogWorker Start!!
+[14:10:21] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:10:21] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:10:21] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:12:05] TraceLogWorker Start!!
+[14:12:08] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:12:08] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:12:08] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:12:38] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:13:22] TraceLogWorker Start!!
+[14:13:31] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:13:31] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:13:31] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:14:01] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:15:44] TraceLogWorker Start!!
+[14:15:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:15:47] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:15:47] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:16:17] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:18:29] TraceLogWorker Start!!
+[14:18:42] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:18:42] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:18:51] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:19:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:19:23] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:19:23] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:21:00] TraceLogWorker Start!!
+[14:21:06] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:21:06] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:21:06] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:21:36] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:24:25] TraceLogWorker Start!!
+[14:24:28] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:24:28] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:24:28] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:24:58] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:26:41] TraceLogWorker Start!!
+[14:26:43] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:26:43] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:26:43] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:27:13] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:28:10] TraceLogWorker Start!!
+[14:28:15] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:28:15] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:28:15] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:28:45] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:29:41] TraceLogWorker Start!!
+[14:29:43] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:29:43] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:29:43] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:30:13] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:31:34] TraceLogWorker Start!!
+[14:31:38] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:31:38] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:31:38] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:32:08] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:32:40] TraceLogWorker Start!!
+[14:32:42] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:32:42] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:32:42] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:33:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:33:48] TraceLogWorker Start!!
+[14:33:51] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:33:51] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:33:51] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:34:21] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:36:48] TraceLogWorker Start!!
+[14:36:51] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:36:51] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:36:51] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:37:21] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:41:06] TraceLogWorker Start!!
+[14:41:08] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:41:08] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:41:08] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:41:38] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:45:15] TraceLogWorker Start!!
+[14:45:17] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:45:17] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:45:17] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:45:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:51:58] TraceLogWorker Start!!
+[14:52:00] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:52:00] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:52:00] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:52:30] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[14:55:40] TraceLogWorker Start!!
+[14:55:47] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[14:55:47] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[14:55:47] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[14:55:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[14:55:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[14:56:17] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[15:16:10] TraceLogWorker Start!!
+[15:16:12] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[15:16:12] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[15:16:12] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[15:16:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[15:16:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[15:16:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[15:16:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[15:16:12] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[15:16:42] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[15:19:01] TraceLogWorker Start!!
+[15:19:09] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[15:19:09] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[15:19:09] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[15:19:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[15:19:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[15:19:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[15:19:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[15:19:09] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[15:19:39] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[15:25:02] TraceLogWorker Start!!
+[15:25:04] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[15:25:04] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[15:25:04] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[15:25:04] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[15:25:04] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[15:25:04] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[15:25:04] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[15:25:04] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[15:25:34] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[15:36:28] TraceLogWorker Start!!
+[15:36:30] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[15:36:30] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[15:36:30] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[15:36:30] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[15:36:30] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[15:36:30] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[15:36:30] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[15:36:30] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[15:37:00] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]
+[16:00:29] TraceLogWorker Start!!
+[16:00:31] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01221049982]
+[16:00:31] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01221049982]
+[16:00:31] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01221049982]
+[16:00:31] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[16:00:31] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[16:00:31] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[16:00:31] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[16:00:31] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set VO from DTSS Data
+[16:01:01] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01221049982]

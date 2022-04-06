@@ -1,0 +1,172 @@
+[10:39:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:39:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:39:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:39:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:39:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:40:56][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:43:11][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:43:11][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:43:11][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:43:11][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:43:11][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:43:15][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:44:44][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:44:44][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:44:44][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:44:44][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:44:44][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:44:55][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:50:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:50:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:50:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:50:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:50:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:50:25][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:50:25][DEBUG](LoopDtgDTSSService.java:59) - ====>01221049982<=======
+[10:51:07][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:07][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:07][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:07][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:07][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:10][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:51:10][DEBUG](LoopDtgDTSSService.java:60) - ====>1221049982<=======
+[10:51:41][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:41][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:41][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:41][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:41][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:51:43][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:51:43][DEBUG](LoopDtgDTSSService.java:60) - ====>1221049982<=======
+[10:54:06][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:54:06][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:54:06][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:54:06][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:54:06][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:54:09][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:54:09][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[10:54:09][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[10:54:09][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[10:54:09][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[10:54:09][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[10:57:56][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:57:56][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:57:56][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:57:56][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:57:56][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[10:58:12][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[10:58:12][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[10:58:12][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[10:58:12][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[10:58:12][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[10:58:12][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:18:30][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:18:30][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:18:30][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:18:30][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:18:30][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:18:32][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:18:32][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:18:32][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:18:32][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:18:32][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:18:32][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:20:05][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:20:05][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:20:05][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:20:05][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:20:05][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:20:07][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:20:07][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:20:07][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:20:07][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:20:07][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:20:07][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:22:28][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:22:28][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:22:28][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:22:28][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:22:28][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:22:29][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:22:29][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:22:29][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:22:29][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:22:29][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:22:29][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:23:31][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:23:31][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:23:31][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:23:31][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:23:31][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:23:33][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:23:38][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:23:47][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:23:47][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:23:47][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:23:47][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:24:32][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:24:32][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:24:32][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:24:32][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:24:32][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:24:36][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:24:36][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:24:36][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:24:36][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:24:36][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:24:36][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:27:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:27:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:27:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:27:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:27:59][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:28:03][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:28:03][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:28:03][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:28:03][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:28:03][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:28:03][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:29:13][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:29:13][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:29:13][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:29:13][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:29:13][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:29:15][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:29:15][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:29:15][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:29:15][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:29:15][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:29:15][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[13:29:45][ERROR](DrivingDataProcWorker.java:104) - Failed in Rqeuset DAOManagerWorker|JOB_STATUS:DTSS|CLASS_NAME:null|IDENTITY_NO:01221049982
+[13:31:04][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:31:04][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:31:04][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:31:04][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:31:04][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[13:31:12][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[13:31:12][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[13:31:12][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[13:31:12][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[13:31:12][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[13:31:12][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[14:48:50][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:48:50][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:48:50][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:48:50][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:48:50][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:48:52][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[14:48:52][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[14:48:52][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[14:48:52][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[14:48:52][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[14:48:52][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd
+[14:56:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:56:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:56:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:56:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:56:23][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:56:24][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[14:56:25][DEBUG](LoopDtgDTSSService.java:61) - ====>1221049982<=======
+[14:56:25][DEBUG](LoopDtgDTSSService.java:111) - length:2072
+[14:56:25][DEBUG](LoopDtgDTSSService.java:114) - this.intLength:2048
+[14:56:25][DEBUG](LoopDtgDTSSService.java:142) - ==>bytesCrc:dfdd
+[14:56:25][DEBUG](LoopDtgDTSSService.java:143) - ==>bytesMakeCrc:dfdd

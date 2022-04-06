@@ -1,0 +1,25 @@
+[07:59:01] TraceLogWorker Start!!
+[07:59:59] TraceLogWorker Start!!
+[08:00:16] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01226492646]
+[08:00:41] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01226492646]
+[08:00:41] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01226492646]
+[08:03:21] TraceLogWorker Start!!
+[08:03:24] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01226492646]
+[08:03:24] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01226492646]
+[08:03:24] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01226492646]
+[08:03:46] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[08:03:47] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[08:03:53] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[08:03:54] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01226492646]
+[08:03:54] cccf030000000000435354440000010001000000002be2cfd0
+[08:03:55] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[08:05:45] TraceLogWorker Start!!
+[08:05:55] [kr.co.kti.lcs.verticle.DTGServerVerticle] Reqeust 'DTSS' Command from Client [01226492646]
+[08:05:55] [kr.co.kti.lcs.worker.DrivingDataProcWorker] Reqeust 'DTSS' Command from Client [01226492646]
+[08:05:55] [kr.co.kti.lcs.worker.DAOManagerWorker] Request DAOService by JOB_STATUS [DTSS][01226492646]
+[08:05:55] [kr.co.kti.lcs.service.LoopDtgDTSSService] Create instance of LoopDtgDTSSService
+[08:05:55] [kr.co.kti.lcs.service.LoopDtgDTSSService] Set DTSS Data from Buffer
+[08:05:55] [kr.co.kti.lcs.service.LoopDtgDTSSService] Parsing DTSS Data
+[08:05:55] [kr.co.kti.lcs.service.LoopDtgDTSSService] Validate DTSS Data
+[08:06:25] [kr.co.kti.lcs.verticle.DTGServerVerticle] Response 'DTSS' Command from Client [01226492646]
+[08:06:25] cccf030000000000435354440000010001000000002be2cfd0

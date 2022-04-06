@@ -1,0 +1,45 @@
+[14:46:53][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:46:53][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:46:53][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:46:53][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:46:53][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:46:58][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[14:46:59][DEBUG](LoopDtgDTSSService.java:105) - length:2072
+[14:46:59][DEBUG](LoopDtgDTSSService.java:108) - this.intLength:2048
+[14:46:59][DEBUG](LoopDtgDTSSService.java:136) - ==>bytesCrc:dfdd
+[14:46:59][DEBUG](LoopDtgDTSSService.java:137) - ==>bytesMakeCrc:dfdd
+[14:47:39][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:47:39][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:47:39][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:47:39][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:47:39][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:47:42][DEBUG](DrivingDataProcWorker.java:52) - ===============dtssBuffer===============>2072
+[14:47:42][DEBUG](LoopDtgDTSSService.java:105) - length:2072
+[14:47:42][DEBUG](LoopDtgDTSSService.java:108) - this.intLength:2048
+[14:47:42][DEBUG](LoopDtgDTSSService.java:136) - ==>bytesCrc:dfdd
+[14:47:42][DEBUG](LoopDtgDTSSService.java:137) - ==>bytesMakeCrc:dfdd
+[14:51:19][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:51:19][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:51:19][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:51:19][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:51:19][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:53:33][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:53:33][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:53:33][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:53:33][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:53:33][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:57:47][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:57:47][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:57:47][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:57:47][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[14:57:47][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[15:09:46][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[15:09:46][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[15:09:46][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[15:09:46][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[15:09:46][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[16:10:38][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[16:10:38][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[16:10:38][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[16:10:38][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
+[16:10:38][DEBUG](DrivingDataProcWorker.java:33) - DataProcWorker Start!!
