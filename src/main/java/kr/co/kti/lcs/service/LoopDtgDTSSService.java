@@ -125,8 +125,8 @@ public class LoopDtgDTSSService
 	/**
 	 * Instance DTSS Service 
 	 * 
-	 * @param vertx
-	 * @param joInfo
+	 * @param vertx VertX
+	 * @param joInfo Info데이터 (Json)
 	 */
 	public LoopDtgDTSSService(Vertx vertx, JsonObject joInfo)
 	{
@@ -143,7 +143,7 @@ public class LoopDtgDTSSService
 	/**
 	 * DB에서 불러온 JsonData 형식의 INFO Data 설정
 	 * 
-	 * @param joInfo
+	 * @param joInfo Info데이터 (Json)
 	 */
 	private void setLoopDtgInfo(JsonObject joInfo)
 	{
@@ -166,7 +166,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 단말에서 Socket으로 받은 Buffer Data 설정 
 	 * 
-	 * @param buf
+	 * @param buf 원본 데이터 Buffer
 	 */
 	public void setBuffer(Buffer buf)
 	{
@@ -485,8 +485,6 @@ public class LoopDtgDTSSService
 
 	/**
 	 * 전체 정합성 검증
-	 * 
-	 * @throws Exception
 	 */
 	public void validateFactor()
 	{
@@ -600,6 +598,8 @@ public class LoopDtgDTSSService
 
 	/**
 	 * 일일주행거리 정합성 검증
+	 * 
+	 * @param dayDistance 일일주행거리
 	 */
 	private boolean checkDayDistance(float dayDistance)
 	{
@@ -613,6 +613,8 @@ public class LoopDtgDTSSService
 
 	/**
 	 * 누적주행거리 정합성 검증
+	 * 
+	 * @param totDistance 총주행거리
 	 */
 	private boolean checkTotDistance(float totDistance)
 	{
@@ -627,6 +629,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 속도 정합성 검증
 	 * 
+	 * @param intSpeed 차속
 	 * @throws Exception
 	 */
 	private boolean checkSpeed(int intSpeed)
@@ -642,6 +645,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 브레이크신호 정합성 검증
 	 * 
+	 * @param intBreak Brake 신호
 	 * @throws Exception
 	 */
 	private boolean checkBrk(int intBreak)
@@ -656,6 +660,8 @@ public class LoopDtgDTSSService
 
 	/**
 	 * RPM 정합성 검증
+	 * 
+	 * @param intRpm RPM(분당회전속도)
 	 */
 	private boolean checkRpm(int intRpm)
 	{
@@ -670,6 +676,7 @@ public class LoopDtgDTSSService
 	/**
 	 * gps X 정합성 검증
 	 * 
+	 * @param longLongitude 경도
 	 * @throws Exception
 	 */
 	private boolean checkLongitude(long longLongitude)
@@ -685,6 +692,7 @@ public class LoopDtgDTSSService
 	/**
 	 * gps Y 정합성 검증
 	 * 
+	 * @param longLatitude 위도
 	 * @throws Exception
 	 */
 	private boolean checkLatitude(long longLatitude)
@@ -700,6 +708,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 방위각 정합성 검증
 	 * 
+	 * @param intAzimuth 방위각
 	 * @throws Exception
 	 */
 	private boolean checkAzimuth(int intAzimuth)
@@ -748,7 +757,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 시동 On/Off, 브레이크(Brake) 값 추출
 	 * 
-	 * @param body
+	 * @param body 운행데이터(초기준) DTSS VO
 	 */
 	private void parseSignal(LoopDtgDTSSBody body)
 	{
@@ -768,7 +777,7 @@ public class LoopDtgDTSSService
 	/**
 	 * 단말기 상태값 추출
 	 * 
-	 * @param body
+	 * @param body 운행데이터(초기준) DTSS VO
 	 */
 	private void parseStatus(LoopDtgDTSSBody body)
 	{
@@ -806,8 +815,8 @@ public class LoopDtgDTSSService
 	/**
 	 * Buffer to DTSSVO 
 	 * 
-	 * @param byteDataBuf
-	 * @param intIndex
+	 * @param byteDataBuf 원본데이터 Bytes
+	 * @param intIndex 초순서
 	 * @return
 	 */
 	private LoopDtgDTSSBody setDTSSBody(byte[] byteDataBuf, int intIndex)

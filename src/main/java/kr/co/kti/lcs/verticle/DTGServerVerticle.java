@@ -29,11 +29,6 @@ public class DTGServerVerticle extends AbstractVerticle
 	private org.slf4j.Logger log = null;
 
 	/**
-	 * Define Socket
-	 */
-	private NetSocket netSocket;
-
-	/**
 	 * Define 서버 IP
 	 */
 	private String strServerIp;
@@ -112,9 +107,9 @@ public class DTGServerVerticle extends AbstractVerticle
 		NetServer netServer = vertx.createNetServer(netServerOption);
 
 		netServer.connectHandler(socket -> {
-			this.netSocket = socket;
+			NetSocket netSocket = socket;
 
-			this.netSocket.handler(recvBuf -> {
+			netSocket.handler(recvBuf -> {
 				log.debug("Recv data from client");
 
 				if (recvBuf.length() > 2)
@@ -124,15 +119,19 @@ public class DTGServerVerticle extends AbstractVerticle
 					Buffer bufTemp = recvBuf.getBuffer(recvBuf.length() - 2, recvBuf.length());
 					String strTemp = Util.byteArrayToHex(bufTemp.getBytes());
 					
-					if (strTemp.equals("cfd0"))
+					/**
+					 * 데이터 버퍼 끝 확인 
+					 * 끝 확인후 버퍼처리 호출  
+					 */
+					if (strTemp.equals("cfd0"))	
 					{
-						this.procData(this.revBuffer);
+						this.procData(netSocket, this.revBuffer);
 						this.revBuffer = Buffer.buffer();
 					}
 				}				
 			});
 
-			this.netSocket.closeHandler(rst -> {
+			netSocket.closeHandler(rst -> {
 				log.debug("socket is closed");
 			});
 		});
@@ -148,9 +147,9 @@ public class DTGServerVerticle extends AbstractVerticle
 	/**
 	 * 수신된 Buffer Data 처리 
 	 * 
-	 * @param buffer
+	 * @param buffer 단말수신 Buffer
 	 */
-	private void procData(Buffer buffer)
+	private void procData(NetSocket netSocket, Buffer buffer)
 	{
 		// Command 에 따라서 데이터 분기 처리
 		// INFO(RECV Command : DTSC), DTSS, EVSS
@@ -193,7 +192,7 @@ public class DTGServerVerticle extends AbstractVerticle
 
 					resBuffer.appendBytes(byteResponse);
 
-					this.socketWrite(resBuffer);
+					this.socketWrite(netSocket, resBuffer);
 				});
 
 				break;
@@ -225,7 +224,7 @@ public class DTGServerVerticle extends AbstractVerticle
 
 					resBuffer.appendBytes(byteResponse);
 
-					this.socketWrite(resBuffer);
+					this.socketWrite(netSocket, resBuffer);
 				});
 
 				break;
@@ -255,7 +254,7 @@ public class DTGServerVerticle extends AbstractVerticle
 
 					resBuffer.appendBytes(byteResponse);
 
-					this.socketWrite(resBuffer);
+					this.socketWrite(netSocket, resBuffer);
 				});
 
 				break;
@@ -268,7 +267,7 @@ public class DTGServerVerticle extends AbstractVerticle
 	/**
 	 * 수신된 운행 Buffer에서 Command 추출하기 
 	 * 
-	 * @param buffer
+	 * @param buffer 단말 수신 Buffer
 	 * @return
 	 */
 	private String getCommand(Buffer buffer)
@@ -292,7 +291,7 @@ public class DTGServerVerticle extends AbstractVerticle
 	/**
 	 * 수신된 운행 Buffer에서 회선번호 추출하기 
 	 * 
-	 * @param buffer
+	 * @param buffer 단말 수신 Buffer
 	 * @return
 	 */
 	private int getIdentityNo(Buffer buffer)
@@ -307,17 +306,17 @@ public class DTGServerVerticle extends AbstractVerticle
 	/**
 	 * Write Socket Buffer
 	 * 
-	 * @param buffer
+	 * @param buffer 단말 응답 Buffer
 	 */
-	private void socketWrite(Buffer buffer)
+	private void socketWrite(NetSocket netSocket, Buffer buffer)
 	{
-		if (this.netSocket != null && buffer != null)
+		if (netSocket != null && buffer != null)
 		{
 			log.debug("Write Buffer : " + Util.byteArrayToHex(buffer.getBytes()));
 
 			Util.writeTraceLog(vertx, Util.byteArrayToHex(buffer.getBytes()));
 
-			this.netSocket.write(buffer);
+			netSocket.write(buffer);
 		}
 	}
 

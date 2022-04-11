@@ -77,6 +77,7 @@ public class MainVerticle extends AbstractVerticle
 
 	/**
 	 * VertX 종료 처리
+	 * 
 	 * @param arg
 	 */
 	private void Exit(int arg)

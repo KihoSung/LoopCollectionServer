@@ -61,8 +61,8 @@ public class Util
 	/**
 	 * TraceLog 기록
 	 * 
-	 * @param vertx
-	 * @param strMessage
+	 * @param vertx	VertX
+	 * @param strMessage	기록 문자열
 	 */
 	public static void writeTraceLog(Vertx vertx, String strMessage)
 	{
@@ -72,7 +72,7 @@ public class Util
 	/**
 	 * 트립시퀀스에서 날짜 추출
 	 * 
-	 * @param intTripSeq
+	 * @param intTripSeq 트립시퀀스
 	 * @return
 	 */
 	public static String getTripSeqToDate(int intTripSeq)
@@ -85,7 +85,7 @@ public class Util
 	/**
 	 * 트립시퀀스에서 시간 추출
 	 * 
-	 * @param intTripSeq
+	 * @param intTripSeq 트립시퀀스
 	 * @return
 	 */
 	public static String getHourTime(int intTripSeq)
@@ -98,10 +98,10 @@ public class Util
 	/**
 	 * INFO 정보 DB 저장 요청 
 	 * 
-	 * @param vertx
-	 * @param strIdentityNo
-	 * @param strDbCommand
-	 * @param joValue
+	 * @param vertx VertX
+	 * @param strIdentityNo 회선번호
+	 * @param strDbCommand DB_COMMAND
+	 * @param joValue Update Value
 	 */
 	public static void updateDBInfo(Vertx vertx, String strIdentityNo, String strDbCommand, JsonObject joValue)
 	{
@@ -126,7 +126,7 @@ public class Util
 	/**
 	 * Byte Order 변경
 	 * 
-	 * @param value
+	 * @param value ByteData
 	 * @param Order
 	 *            1:유지, 2:변경
 	 * @return
@@ -154,9 +154,9 @@ public class Util
 	/**
 	 * ByteArray에서 지정한 부분 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intEnd
+	 * @param buff 원본데이터
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할데이터 길이
 	 * @return
 	 */
 	public static byte[] getBytes(byte[] buff, int intStart, int intLength)
@@ -171,7 +171,7 @@ public class Util
 	/**
 	 * 수신된 Buffer 중에서 Command 추출 하기 
 	 * 
-	 * @param buff
+	 * @param buff 원본 데이터 Bytes
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -189,9 +189,9 @@ public class Util
 	/**
 	 * ByteArray에서 지정부분 문자열 변환 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -218,10 +218,10 @@ public class Util
 	/**
 	 * 지정한 크기만큼 Bytes 추출 
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
-	 * @param strOrder
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
+	 * @param strOrder Endian
 	 * @return
 	 */
 	public static byte getByte(byte[] buff, int intStart, int intLength, String strOrder)
@@ -238,10 +238,10 @@ public class Util
 	/**
 	 * 지정된 크기만큼 Short 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
-	 * @param strOrder
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
+	 * @param strOrder Endian
 	 * @return
 	 */
 	public static short getShort(byte[] buff, int intStart, int intLength, String strOrder)
@@ -265,9 +265,9 @@ public class Util
 	/**
 	 * ByteArray에서 지정부분 정수(Integer) 변환 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
 	 * @param strOrder
 	 *            (L:Little Endian,B:Big Endian)
 	 * @return
@@ -293,10 +293,11 @@ public class Util
 	/**
 	 * ByteArray에서 지정부분 정수(Long) 변환 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
 	 * @param strOrder
+	 *            (L:Little Endian,B:Big Endian)
 	 * @return
 	 */
 	public static long getLong(byte[] buff, int intStart, int intLength, String strOrder)
@@ -322,10 +323,11 @@ public class Util
 	/**
 	 * ByteArray에서 지정부분 실수 변환 추출
 	 * 
-	 * @param buff
-	 * @param intStart
-	 * @param intLength
+	 * @param buff 원본 데이터 Bytes
+	 * @param intStart 추출할 시작 번지
+	 * @param intLength 추출할 데이터 길이
 	 * @param strOrder
+	 *            (L:Little Endian,B:Big Endian)
 	 * @return
 	 */
 	public static float getFloat(byte[] buff, int intStart, int intLength, String strOrder)
@@ -349,7 +351,7 @@ public class Util
 	/**
 	 * 16진수 문자열을 ByteArray로 변경
 	 * 
-	 * @param sHexStr
+	 * @param sHexStr 16진수 문자열
 	 * @return
 	 */
 	public static byte[] hexToByteArray(String sHexStr)
@@ -396,8 +398,8 @@ public class Util
 	/**
 	 * Timestamp 비교 이전이 같거나 크면 false, 현재가 크면 true
 	 * 
-	 * @param beforeTimestamp
-	 * @param currentTimestamp
+	 * @param beforeTimestamp	이전 Timestamp
+	 * @param currentTimestamp  현재 Timestamp
 	 * @return
 	 */
 	public static boolean compareDate(long beforeTimestamp, long currentTimestamp)
@@ -415,7 +417,7 @@ public class Util
 	/**
 	 * Make Response ByteArray
 	 * 
-	 * @param byteServerIp
+	 * @param byteServerIp 서버IP
 	 * @param strCommand
 	 *            (ex:DTSC, DTSS, EVSS)
 	 * @param strData
@@ -484,7 +486,7 @@ public class Util
 	/**
 	 * Make CRC
 	 * 
-	 * @param byteMakeData
+	 * @param byteMakeData CRC 생성 원본 데이터 Bytes
 	 * @return
 	 */
 	public static byte[] makeCRC(byte[] byteMakeData)
@@ -508,7 +510,7 @@ public class Util
 	/**
 	 * 단말기로 응답 할 서버 IP Bytes 만들기 
 	 * 
-	 * @param strServerIp
+	 * @param strServerIp 서버 IP
 	 * @return
 	 */
 	public static byte[] serverIpToByte(String strServerIp)
@@ -529,7 +531,7 @@ public class Util
 	/**
 	 * 응답코드 기준 Boolean 변환
 	 * 
-	 * @param strResult
+	 * @param strResult 응답코드
 	 * @return
 	 */
 	public static boolean responseStatus(String strResult)
@@ -547,7 +549,7 @@ public class Util
 	/**
 	 * Convert CarType 
 	 * 
-	 * @param intCarType
+	 * @param intCarType 차량형식 코드
 	 * @return
 	 */
 	public static String convertCarType(int intCarType)
@@ -614,8 +616,8 @@ public class Util
 	/**
 	 * 타임스템프 기준 날짜, 트립 데이터 추출
 	 * 
-	 * @param longTime
-	 * @param strStatus
+	 * @param longTime	Timestamp (Unix Type)
+	 * @param strStatus	트립구분
 	 * @return
 	 */
 	public static String convertTime(long longTime, String strStatus)
@@ -638,9 +640,9 @@ public class Util
 	/**
 	 * 분석 서버로 전달할 기본 파일명 생성 
 	 * 
-	 * @param filetypeKey
-	 * @param carKey
-	 * @param carnum
+	 * @param filetypeKey 파일키
+	 * @param carKey	차량키
+	 * @param carnum	차량이름
 	 * @return
 	 */
 	public static String getFileName(String filetypeKey, String carKey, String carnum)
@@ -691,7 +693,7 @@ public class Util
 	/**
 	 * 현재 시간 생성 반환
 	 * 
-	 * @param pattern
+	 * @param pattern 시간 패턴 (yyyyMMddHHmmssSS)
 	 * @return
 	 */
 	public static String getCurrentDateTime(String pattern)
@@ -704,8 +706,8 @@ public class Util
 	/**
 	 * Integer to Binary 
 	 * 
-	 * @param intVal
-	 * @param intLen
+	 * @param intVal 원본 정수
+	 * @param intLen Binary 길이
 	 * @return
 	 */
 	public static String[] convertBinaryStringToArray(int intVal, int intLen)
@@ -725,58 +727,9 @@ public class Util
 	}
 	
 	/**
-	 * 배열 정렬 
-	 * 
-	 * @param arr
-	 * @param start
-	 * @param end
-	 */
-	public static void quick_Sort(int[] arr, int start, int end)
-	{
-
-		int left = start;
-		int right = end;
-		/* pivot을 중앙 값으로 셋팅 */
-		int pivot = arr[(left + right) / 2];
-
-		do
-		{
-			while (arr[left] < pivot)
-			{
-				left++;
-			}
-			while (arr[right] > pivot)
-			{
-				right--;
-			}
-
-			if (left <= right)
-			{
-				int temp = arr[left];
-				arr[left] = arr[right];
-				arr[right] = temp;
-				left++;
-				right--;
-			}
-
-		}
-		while (left <= right);
-
-		if (start < right)
-		{
-			quick_Sort(arr, start, right);
-
-		}
-		if (end > left)
-		{
-			quick_Sort(arr, left, end);
-		}
-	}
-	
-	/**
 	 * 지정된 시간만큼 Sleep 
 	 * 
-	 * @param intSleep
+	 * @param intSleep 슬립시간(밀리세컨드)
 	 */
 	public static void sleepTime(int intSleep)
 	{

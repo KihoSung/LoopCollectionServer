@@ -36,7 +36,8 @@ public class DAOService
 
 	/**
 	 * Instance of DAOService 
-	 * @param pool
+	 * 
+	 * @param pool DB Pool
 	 */
 	public DAOService(MySQLConnectionPool pool)
 	{
@@ -47,7 +48,7 @@ public class DAOService
 	/**
 	 * 회선번호 기준 Trip Info 불러오기 
 	 * 
-	 * @param strIdentityNo
+	 * @param strIdentityNo 회선번호
 	 * @return
 	 */
 	public JsonObject getTripInfo(String strIdentityNo)
@@ -130,7 +131,7 @@ public class DAOService
 	/**
 	 * 회선번호 기준 청약 상태 확인
 	 * 
-	 * @param strIdentityNo
+	 * @param strIdentityNo 회선번호
 	 * @return
 	 */
 	public int authIdentityNo(String strIdentityNo)
@@ -191,8 +192,8 @@ public class DAOService
 	/**
 	 * 회선번호 기준 Info Data 설정 
 	 * 
-	 * @param strIdentityNo
-	 * @param loopDtgINFOBody
+	 * @param strIdentityNo 회선번호
+	 * @param loopDtgINFOBody INFO VO
 	 */
 	public void setLoopDtgInfo(String strIdentityNo, LoopDtgINFOBody loopDtgINFOBody)
 	{
@@ -273,8 +274,8 @@ public class DAOService
 	/**
 	 * 회선번호 기준 트립시퀀스 및 운행코드 설정 
 	 * 
-	 * @param strIdentityNo
-	 * @param joTripInfo
+	 * @param strIdentityNo 회선번호
+	 * @param joTripInfo 업데이트 정보
 	 */
 	public void setTripInfo(String strIdentityNo, JsonObject joTripInfo)
 	{
@@ -339,7 +340,7 @@ public class DAOService
 	/**
 	 * 회선번호 기준 청약이 없을경우 INFO Data 삭제
 	 * 
-	 * @param strIdentityNo
+	 * @param strIdentityNo 회선정보
 	 */
 	public void deleteLoopInfo(String strIdentityNo)
 	{
